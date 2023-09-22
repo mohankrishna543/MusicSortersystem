@@ -1,0 +1,201 @@
+artist,track,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Ed Sheeran,Thinking out Loud,0.781,0.445,2,-6.061,1,0.0295,0.474,0,0.184,0.591,78.998,audio_features,1Slwb6dOYkBlWal1PGtnNg,spotify:track:1Slwb6dOYkBlWal1PGtnNg,https://api.spotify.com/v1/tracks/1Slwb6dOYkBlWal1PGtnNg,https://api.spotify.com/v1/audio-analysis/1Slwb6dOYkBlWal1PGtnNg,281560,4
+Rihanna,Love On The Brain,0.509,0.637,4,-4.83,0,0.0471,0.0717,1.08e-05,0.0789,0.378,172.006,audio_features,5oO3drDxtziYU2H1X23ZIp,spotify:track:5oO3drDxtziYU2H1X23ZIp,https://api.spotify.com/v1/tracks/5oO3drDxtziYU2H1X23ZIp,https://api.spotify.com/v1/audio-analysis/5oO3drDxtziYU2H1X23ZIp,224000,3
+Arctic Monkeys,I Wanna Be Yours,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,audio_features,5XeFesFbtLpXzIVDNQP22n,spotify:track:5XeFesFbtLpXzIVDNQP22n,https://api.spotify.com/v1/tracks/5XeFesFbtLpXzIVDNQP22n,https://api.spotify.com/v1/audio-analysis/5XeFesFbtLpXzIVDNQP22n,183956,4
+Sachet Tandon,"Mere Sohneya (From ""Kabir Singh"")",0.376,0.643,9,-5.713,1,0.0411,0.558,0,0.217,0.646,136.224,audio_features,2IoZMG3RqiTmsy7Li3zGFg,spotify:track:2IoZMG3RqiTmsy7Li3zGFg,https://api.spotify.com/v1/tracks/2IoZMG3RqiTmsy7Li3zGFg,https://api.spotify.com/v1/audio-analysis/2IoZMG3RqiTmsy7Li3zGFg,193356,5
+Shankar-Ehsaan-Loy,Bol Na Halke Halke,0.637,0.573,11,-6.69,0,0.0491,0.279,3.46e-06,0.0617,0.704,90.017,audio_features,0u8wprNfOdcWpUlWnfMcpP,spotify:track:0u8wprNfOdcWpUlWnfMcpP,https://api.spotify.com/v1/tracks/0u8wprNfOdcWpUlWnfMcpP,https://api.spotify.com/v1/audio-analysis/0u8wprNfOdcWpUlWnfMcpP,306834,4
+Meet Bros.,"Ijazat (From ""One Night Stand"")",0.519,0.463,6,-8.88,0,0.0264,0.327,0,0.106,0.224,94.965,audio_features,3JUmNYQyJKeRq2a3RR8K71,spotify:track:3JUmNYQyJKeRq2a3RR8K71,https://api.spotify.com/v1/tracks/3JUmNYQyJKeRq2a3RR8K71,https://api.spotify.com/v1/audio-analysis/3JUmNYQyJKeRq2a3RR8K71,288964,4
+Pritam,Labon Ko,0.63,0.837,9,-4.635,0,0.0387,0.329,0.00271,0.159,0.473,107.997,audio_features,5WncH5iZ5GFlnXm7jKEXVP,spotify:track:5WncH5iZ5GFlnXm7jKEXVP,https://api.spotify.com/v1/tracks/5WncH5iZ5GFlnXm7jKEXVP,https://api.spotify.com/v1/audio-analysis/5WncH5iZ5GFlnXm7jKEXVP,341028,4
+Arijit Singh,"Suno- Na Sangemarmar (From ""Youngistaan)",0.658,0.563,0,-8.91,0,0.0317,0.494,7.58e-05,0.378,0.582,119.98,audio_features,2ESscisnKdryn50fPeHd7O,spotify:track:2ESscisnKdryn50fPeHd7O,https://api.spotify.com/v1/tracks/2ESscisnKdryn50fPeHd7O,https://api.spotify.com/v1/audio-analysis/2ESscisnKdryn50fPeHd7O,201676,4
+Luis Miguel,No Sé Tú,0.389,0.443,10,-8.546,0,0.0304,0.571,0.00178,0.114,0.0888,76.54,audio_features,2DAsLftcRKP3iarCPmI1RY,spotify:track:2DAsLftcRKP3iarCPmI1RY,https://api.spotify.com/v1/tracks/2DAsLftcRKP3iarCPmI1RY,https://api.spotify.com/v1/audio-analysis/2DAsLftcRKP3iarCPmI1RY,229853,4
+Rahat Fateh Ali Khan,"Tere Bin (From ""Simmba"")",0.649,0.716,7,-3.936,1,0.0384,0.268,4.51e-06,0.603,0.639,86.949,audio_features,4f5kLqyOJ5ZPnalEVMQrB2,spotify:track:4f5kLqyOJ5ZPnalEVMQrB2,https://api.spotify.com/v1/tracks/4f5kLqyOJ5ZPnalEVMQrB2,https://api.spotify.com/v1/audio-analysis/4f5kLqyOJ5ZPnalEVMQrB2,230948,4
+Armaan Malik,"Dil Mein Ho Tum (From ""Cheat India"")",0.608,0.653,8,-7.573,0,0.0427,0.507,0.000243,0.107,0.423,86.933,audio_features,1mjWhM7GQTTxJxg2F0iCRS,spotify:track:1mjWhM7GQTTxJxg2F0iCRS,https://api.spotify.com/v1/tracks/1mjWhM7GQTTxJxg2F0iCRS,https://api.spotify.com/v1/audio-analysis/1mjWhM7GQTTxJxg2F0iCRS,326765,4
+Alejandro Fernández,Me Dediqué a Perderte,0.642,0.442,8,-9.115,1,0.074,0.491,1.58e-06,0.102,0.465,148.01,audio_features,4NUt1fcnO9aQAELBgXq3Kr,spotify:track:4NUt1fcnO9aQAELBgXq3Kr,https://api.spotify.com/v1/tracks/4NUt1fcnO9aQAELBgXq3Kr,https://api.spotify.com/v1/audio-analysis/4NUt1fcnO9aQAELBgXq3Kr,231773,4
+Vishal-Shekhar,Falak Tak,0.718,0.697,2,-6.474,0,0.135,0.634,1.53e-05,0.0563,0.62,143.907,audio_features,0IudGhdeJZwJ0Ps6ndtQDt,spotify:track:0IudGhdeJZwJ0Ps6ndtQDt,https://api.spotify.com/v1/tracks/0IudGhdeJZwJ0Ps6ndtQDt,https://api.spotify.com/v1/audio-analysis/0IudGhdeJZwJ0Ps6ndtQDt,356180,4
+Pritam,Hawayein,0.606,0.601,2,-5.576,1,0.0283,0.796,0.000511,0.127,0.453,125.961,audio_features,0l6g8Z8mqGbGXFOjigYetD,spotify:track:0l6g8Z8mqGbGXFOjigYetD,https://api.spotify.com/v1/tracks/0l6g8Z8mqGbGXFOjigYetD,https://api.spotify.com/v1/audio-analysis/0l6g8Z8mqGbGXFOjigYetD,289999,4
+Luis Miguel,Por Debajo De La Mesa,0.401,0.499,0,-7.643,1,0.0272,0.217,0,0.149,0.262,144.276,audio_features,4FqfHVML025cwjfhAOFbfa,spotify:track:4FqfHVML025cwjfhAOFbfa,https://api.spotify.com/v1/tracks/4FqfHVML025cwjfhAOFbfa,https://api.spotify.com/v1/audio-analysis/4FqfHVML025cwjfhAOFbfa,184080,4
+Arijit Singh,Tera Fitoor,0.576,0.688,9,-5.136,1,0.0319,0.346,0.0439,0.262,0.726,135.984,audio_features,1YMLgvsQdE27r30q0fsLeV,spotify:track:1YMLgvsQdE27r30q0fsLeV,https://api.spotify.com/v1/tracks/1YMLgvsQdE27r30q0fsLeV,https://api.spotify.com/v1/audio-analysis/1YMLgvsQdE27r30q0fsLeV,310000,4
+Armaan Malik,"Bol Do Na Zara (From ""Azhar"")",0.545,0.472,11,-8.259,0,0.0311,0.294,0,0.0871,0.195,129.988,audio_features,3XQ15TDH5wMJMJr0X6u2Yc,spotify:track:3XQ15TDH5wMJMJr0X6u2Yc,https://api.spotify.com/v1/tracks/3XQ15TDH5wMJMJr0X6u2Yc,https://api.spotify.com/v1/audio-analysis/3XQ15TDH5wMJMJr0X6u2Yc,292827,3
+Ash King,"Nazar Na Lag Jaaye (From ""Stree"")",0.527,0.622,7,-8.172,0,0.0842,0.7,2.82e-06,0.126,0.672,173.709,audio_features,0cWLJcdvM6QlOQ7UJdB4jb,spotify:track:0cWLJcdvM6QlOQ7UJdB4jb,https://api.spotify.com/v1/tracks/0cWLJcdvM6QlOQ7UJdB4jb,https://api.spotify.com/v1/audio-analysis/0cWLJcdvM6QlOQ7UJdB4jb,206175,4
+Chris de Burgh,The Lady In Red,0.548,0.294,10,-17.112,1,0.0333,0.332,3.34e-06,0.0392,0.491,76.698,audio_features,1GeNWyZtCHbcp3ZWp8GTOO,spotify:track:1GeNWyZtCHbcp3ZWp8GTOO,https://api.spotify.com/v1/tracks/1GeNWyZtCHbcp3ZWp8GTOO,https://api.spotify.com/v1/audio-analysis/1GeNWyZtCHbcp3ZWp8GTOO,256173,4
+Yasser Desai,"Dil Ko Karaar Aaya (From ""Sukoon"")",0.55,0.448,11,-9.117,1,0.0366,0.777,0.000459,0.111,0.388,147.986,audio_features,5urYiIXu1ZhfMAOsp7WDTc,spotify:track:5urYiIXu1ZhfMAOsp7WDTc,https://api.spotify.com/v1/tracks/5urYiIXu1ZhfMAOsp7WDTc,https://api.spotify.com/v1/audio-analysis/5urYiIXu1ZhfMAOsp7WDTc,231487,4
+Atif Aslam,Dil Meri Na Sune,0.574,0.729,9,-4.2,1,0.0473,0.349,1.85e-06,0.664,0.47,163.748,audio_features,4ILc7H2NfGbzbrHBclNOtB,spotify:track:4ILc7H2NfGbzbrHBclNOtB,https://api.spotify.com/v1/tracks/4ILc7H2NfGbzbrHBclNOtB,https://api.spotify.com/v1/audio-analysis/4ILc7H2NfGbzbrHBclNOtB,236000,4
+Armaan Malik,"Mujhko Barsaat Bana Lo (From ""Junooniyat"")",0.543,0.682,11,-4.869,0,0.0319,0.492,0,0.1,0.316,143.628,audio_features,5w8r50E1tZ9YGgAA02pqwO,spotify:track:5w8r50E1tZ9YGgAA02pqwO,https://api.spotify.com/v1/tracks/5w8r50E1tZ9YGgAA02pqwO,https://api.spotify.com/v1/audio-analysis/5w8r50E1tZ9YGgAA02pqwO,263066,4
+Mithoon,"Sanam Re (From ""Sanam Re"")",0.581,0.71,7,-4.961,0,0.0374,0.395,0,0.137,0.755,111.969,audio_features,3XWBGyt7m2rZAjEj0awWnw,spotify:track:3XWBGyt7m2rZAjEj0awWnw,https://api.spotify.com/v1/tracks/3XWBGyt7m2rZAjEj0awWnw,https://api.spotify.com/v1/audio-analysis/3XWBGyt7m2rZAjEj0awWnw,308714,4
+Rochak Kohli,Paniyon Sa,0.523,0.768,0,-4.953,0,0.0566,0.447,0.000226,0.0833,0.669,75.03,audio_features,2si0ZNx4yRbggTvrIom8A2,spotify:track:2si0ZNx4yRbggTvrIom8A2,https://api.spotify.com/v1/tracks/2si0ZNx4yRbggTvrIom8A2,https://api.spotify.com/v1/audio-analysis/2si0ZNx4yRbggTvrIom8A2,236240,4
+Luis Miguel,El Reloj,0.387,0.549,2,-7.74,0,0.0306,0.301,0,0.352,0.667,179.741,audio_features,6BTte0lvV5phb00xaxseC4,spotify:track:6BTte0lvV5phb00xaxseC4,https://api.spotify.com/v1/tracks/6BTte0lvV5phb00xaxseC4,https://api.spotify.com/v1/audio-analysis/6BTte0lvV5phb00xaxseC4,181853,4
+Pritam,Tum Mile,0.738,0.798,0,-6.663,1,0.0334,0.32,5.15e-06,0.31,0.793,123.01,audio_features,1EjxJHY9A6LMOlvyZdwDly,spotify:track:1EjxJHY9A6LMOlvyZdwDly,https://api.spotify.com/v1/tracks/1EjxJHY9A6LMOlvyZdwDly,https://api.spotify.com/v1/audio-analysis/1EjxJHY9A6LMOlvyZdwDly,343787,4
+Tulsi Kumar,Is Qadar,0.671,0.904,6,-2.736,0,0.0506,0.514,3.23e-05,0.0642,0.811,90.971,audio_features,3Rvdqwgbr3rryZkNRrItt3,spotify:track:3Rvdqwgbr3rryZkNRrItt3,https://api.spotify.com/v1/tracks/3Rvdqwgbr3rryZkNRrItt3,https://api.spotify.com/v1/audio-analysis/3Rvdqwgbr3rryZkNRrItt3,226313,4
+Darshan Raval,Teri Aankhon Mein,0.517,0.623,4,-6.812,1,0.0884,0.419,0,0.146,0.456,160.085,audio_features,3wmI2n0Whs6kg4MT8jFRU1,spotify:track:3wmI2n0Whs6kg4MT8jFRU1,https://api.spotify.com/v1/tracks/3wmI2n0Whs6kg4MT8jFRU1,https://api.spotify.com/v1/audio-analysis/3wmI2n0Whs6kg4MT8jFRU1,261758,3
+Sin Bandera,Te Vi Venir,0.625,0.315,4,-9.204,1,0.0349,0.862,0,0.102,0.46,135.795,audio_features,3WpUm0g3LnhZcdMDmaj3XM,spotify:track:3WpUm0g3LnhZcdMDmaj3XM,https://api.spotify.com/v1/tracks/3WpUm0g3LnhZcdMDmaj3XM,https://api.spotify.com/v1/audio-analysis/3WpUm0g3LnhZcdMDmaj3XM,194707,4
+Akhil Sachdeva,"Humsafar (From ""Badrinath Ki Dulhania"")",0.319,0.552,7,-6.401,1,0.0307,0.719,0,0.144,0.221,93.991,audio_features,7aE1lfskJLMHQnzCCP1zsV,spotify:track:7aE1lfskJLMHQnzCCP1zsV,https://api.spotify.com/v1/tracks/7aE1lfskJLMHQnzCCP1zsV,https://api.spotify.com/v1/audio-analysis/7aE1lfskJLMHQnzCCP1zsV,268463,4
+Armaan Malik,"Jab Tak (From ""M.S.Dhoni - The Untold Story"")",0.299,0.447,3,-7.862,0,0.0383,0.858,0.000314,0.097,0.321,121.723,audio_features,6tkl6rjuXWtVOCaXSSSCz2,spotify:track:6tkl6rjuXWtVOCaXSSSCz2,https://api.spotify.com/v1/tracks/6tkl6rjuXWtVOCaXSSSCz2,https://api.spotify.com/v1/audio-analysis/6tkl6rjuXWtVOCaXSSSCz2,174039,4
+Vishal Mishra,Manjha,0.524,0.515,11,-7.478,0,0.0427,0.674,0,0.104,0.368,169.882,audio_features,0UZLaEOSIc5kg0cc7eszqC,spotify:track:0UZLaEOSIc5kg0cc7eszqC,https://api.spotify.com/v1/tracks/0UZLaEOSIc5kg0cc7eszqC,https://api.spotify.com/v1/audio-analysis/0UZLaEOSIc5kg0cc7eszqC,191647,4
+Jubin Nautiyal,"Gazab Ka Hai Din (From ""Dil Juunglee"")",0.325,0.421,2,-8.636,1,0.0566,0.661,4.83e-06,0.0825,0.203,170.376,audio_features,4byiHL0b9mIoCUCjbjI4eA,spotify:track:4byiHL0b9mIoCUCjbjI4eA,https://api.spotify.com/v1/tracks/4byiHL0b9mIoCUCjbjI4eA,https://api.spotify.com/v1/audio-analysis/4byiHL0b9mIoCUCjbjI4eA,236325,4
+Luis Miguel,Historia De Un Amor,0.438,0.71,9,-7.607,0,0.0345,0.342,0,0.0881,0.275,82.743,audio_features,6av3uLAacGG7c9fjshWmuH,spotify:track:6av3uLAacGG7c9fjshWmuH,https://api.spotify.com/v1/tracks/6av3uLAacGG7c9fjshWmuH,https://api.spotify.com/v1/audio-analysis/6av3uLAacGG7c9fjshWmuH,234293,4
+Ranina Reddy,Malai Mangum Neram,0.668,0.504,1,-10.225,0,0.0566,0.388,0.3,0.0761,0.533,86.0,audio_features,2VrNpMt23IX5ZfROWM7wAi,spotify:track:2VrNpMt23IX5ZfROWM7wAi,https://api.spotify.com/v1/tracks/2VrNpMt23IX5ZfROWM7wAi,https://api.spotify.com/v1/audio-analysis/2VrNpMt23IX5ZfROWM7wAi,313601,4
+Pritam,Shayad,0.483,0.468,8,-7.642,1,0.0341,0.784,0,0.152,0.319,135.875,audio_features,1smFN2CLqGROu0J0UyvDfL,spotify:track:1smFN2CLqGROu0J0UyvDfL,https://api.spotify.com/v1/tracks/1smFN2CLqGROu0J0UyvDfL,https://api.spotify.com/v1/audio-analysis/1smFN2CLqGROu0J0UyvDfL,247941,4
+Ami Mishra,Hasi - Female Version,0.52,0.485,4,-6.438,0,0.0269,0.927,0.000466,0.159,0.407,143.901,audio_features,1cmZbGkCEVVAck2MsWpPYQ,spotify:track:1cmZbGkCEVVAck2MsWpPYQ,https://api.spotify.com/v1/tracks/1cmZbGkCEVVAck2MsWpPYQ,https://api.spotify.com/v1/audio-analysis/1cmZbGkCEVVAck2MsWpPYQ,192187,4
+Atif Aslam,Tera Hone Laga Hoon,0.686,0.771,8,-5.33,1,0.0303,0.545,0,0.127,0.551,119.981,audio_features,48Ix6ReYdJf2H4mKb3TIpj,spotify:track:48Ix6ReYdJf2H4mKb3TIpj,https://api.spotify.com/v1/tracks/48Ix6ReYdJf2H4mKb3TIpj,https://api.spotify.com/v1/audio-analysis/48Ix6ReYdJf2H4mKb3TIpj,299827,4
+Armaan Malik,"Sab Tera (From ""Baaghi"")",0.505,0.642,7,-5.864,1,0.0339,0.643,0,0.151,0.427,159.775,audio_features,2Rr8j88wr7SAYSwuekTJgx,spotify:track:2Rr8j88wr7SAYSwuekTJgx,https://api.spotify.com/v1/tracks/2Rr8j88wr7SAYSwuekTJgx,https://api.spotify.com/v1/audio-analysis/2Rr8j88wr7SAYSwuekTJgx,228117,4
+Franco De Vita,Tú de Qué Vas,0.607,0.629,11,-5.931,1,0.0316,0.405,0,0.203,0.567,80.11,audio_features,66iygyOSvvoQQsKJ1vEXfT,spotify:track:66iygyOSvvoQQsKJ1vEXfT,https://api.spotify.com/v1/tracks/66iygyOSvvoQQsKJ1vEXfT,https://api.spotify.com/v1/audio-analysis/66iygyOSvvoQQsKJ1vEXfT,238160,4
+Vishal-Shekhar,Ishq Wala Love,0.711,0.295,0,-12.377,0,0.0334,0.534,4.51e-05,0.0782,0.694,135.041,audio_features,1hQia6rxgfM1ly2hE3StWp,spotify:track:1hQia6rxgfM1ly2hE3StWp,https://api.spotify.com/v1/tracks/1hQia6rxgfM1ly2hE3StWp,https://api.spotify.com/v1/audio-analysis/1hQia6rxgfM1ly2hE3StWp,257973,4
+Amaal Mallik,Soch Na Sake,0.505,0.667,9,-5.797,1,0.0323,0.597,0,0.213,0.516,151.728,audio_features,6mTvwBzWTGDOVeCNQEqtOE,spotify:track:6mTvwBzWTGDOVeCNQEqtOE,https://api.spotify.com/v1/tracks/6mTvwBzWTGDOVeCNQEqtOE,https://api.spotify.com/v1/audio-analysis/6mTvwBzWTGDOVeCNQEqtOE,281323,4
+Pritam,Haan Tu Hain,0.415,0.904,2,-3.586,0,0.104,0.718,0,0.0739,0.729,83.648,audio_features,4vgCpNUUcpEIBifidhQOnR,spotify:track:4vgCpNUUcpEIBifidhQOnR,https://api.spotify.com/v1/tracks/4vgCpNUUcpEIBifidhQOnR,https://api.spotify.com/v1/audio-analysis/4vgCpNUUcpEIBifidhQOnR,324880,4
+Luis Miguel,No Me Platiques Más,0.488,0.61,0,-7.646,0,0.0289,0.382,3.24e-05,0.14,0.237,78.634,audio_features,1kS5xIvvytkr5Ut1JkQ9SM,spotify:track:1kS5xIvvytkr5Ut1JkQ9SM,https://api.spotify.com/v1/tracks/1kS5xIvvytkr5Ut1JkQ9SM,https://api.spotify.com/v1/audio-analysis/1kS5xIvvytkr5Ut1JkQ9SM,211440,4
+Udit Narayan,Chand Chhupa Badal Mein,0.402,0.61,11,-9.509,0,0.141,0.368,0,0.109,0.463,86.248,audio_features,6LVYBlYJ4pezcfk7V8Tttk,spotify:track:6LVYBlYJ4pezcfk7V8Tttk,https://api.spotify.com/v1/tracks/6LVYBlYJ4pezcfk7V8Tttk,https://api.spotify.com/v1/audio-analysis/6LVYBlYJ4pezcfk7V8Tttk,347013,4
+KK,"Ajab Si (From ""Om Shanti Om"")",0.697,0.438,8,-8.411,1,0.0289,0.399,0,0.293,0.58,117.955,audio_features,2RgvvnMwtP0R2OkVZmFvnV,spotify:track:2RgvvnMwtP0R2OkVZmFvnV,https://api.spotify.com/v1/tracks/2RgvvnMwtP0R2OkVZmFvnV,https://api.spotify.com/v1/audio-analysis/2RgvvnMwtP0R2OkVZmFvnV,241668,4
+Atif Aslam,Jab Koi Baat - Recreated,0.667,0.621,5,-5.697,1,0.0271,0.47,4.15e-05,0.13,0.451,106.032,audio_features,43GfQ1SC17rBWiHkOtdwK8,spotify:track:43GfQ1SC17rBWiHkOtdwK8,https://api.spotify.com/v1/tracks/43GfQ1SC17rBWiHkOtdwK8,https://api.spotify.com/v1/audio-analysis/43GfQ1SC17rBWiHkOtdwK8,192229,4
+Jatin-Lalit,Ae Kash Ke Hum,0.364,0.687,0,-7.967,1,0.0571,0.656,0,0.175,0.663,161.008,audio_features,1qyib2Wb5YTbNzZi7QMhEY,spotify:track:1qyib2Wb5YTbNzZi7QMhEY,https://api.spotify.com/v1/tracks/1qyib2Wb5YTbNzZi7QMhEY,https://api.spotify.com/v1/audio-analysis/1qyib2Wb5YTbNzZi7QMhEY,310427,3
+Luis Miguel,Amarte es un placer,0.242,0.334,10,-9.375,1,0.0344,0.343,0,0.0703,0.0851,179.708,audio_features,4lQWZGUrquRfH9se6nlmp3,spotify:track:4lQWZGUrquRfH9se6nlmp3,https://api.spotify.com/v1/tracks/4lQWZGUrquRfH9se6nlmp3,https://api.spotify.com/v1/audio-analysis/4lQWZGUrquRfH9se6nlmp3,211760,3
+Pritam,Kabira,0.59,0.555,2,-6.861,1,0.0271,0.481,0,0.192,0.191,84.027,audio_features,4bD9z9qa4qg9BhryvYWB7c,spotify:track:4bD9z9qa4qg9BhryvYWB7c,https://api.spotify.com/v1/tracks/4bD9z9qa4qg9BhryvYWB7c,https://api.spotify.com/v1/audio-analysis/4bD9z9qa4qg9BhryvYWB7c,223460,4
+Ed Sheeran,Thinking out Loud,0.781,0.445,2,-6.061,1,0.0295,0.474,0,0.184,0.591,78.998,audio_features,1Slwb6dOYkBlWal1PGtnNg,spotify:track:1Slwb6dOYkBlWal1PGtnNg,https://api.spotify.com/v1/tracks/1Slwb6dOYkBlWal1PGtnNg,https://api.spotify.com/v1/audio-analysis/1Slwb6dOYkBlWal1PGtnNg,281560,4
+Rihanna,Love On The Brain,0.509,0.637,4,-4.83,0,0.0471,0.0717,1.08e-05,0.0789,0.378,172.006,audio_features,5oO3drDxtziYU2H1X23ZIp,spotify:track:5oO3drDxtziYU2H1X23ZIp,https://api.spotify.com/v1/tracks/5oO3drDxtziYU2H1X23ZIp,https://api.spotify.com/v1/audio-analysis/5oO3drDxtziYU2H1X23ZIp,224000,3
+Arctic Monkeys,I Wanna Be Yours,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,audio_features,5XeFesFbtLpXzIVDNQP22n,spotify:track:5XeFesFbtLpXzIVDNQP22n,https://api.spotify.com/v1/tracks/5XeFesFbtLpXzIVDNQP22n,https://api.spotify.com/v1/audio-analysis/5XeFesFbtLpXzIVDNQP22n,183956,4
+Sachet Tandon,"Mere Sohneya (From ""Kabir Singh"")",0.376,0.643,9,-5.713,1,0.0411,0.558,0,0.217,0.646,136.224,audio_features,2IoZMG3RqiTmsy7Li3zGFg,spotify:track:2IoZMG3RqiTmsy7Li3zGFg,https://api.spotify.com/v1/tracks/2IoZMG3RqiTmsy7Li3zGFg,https://api.spotify.com/v1/audio-analysis/2IoZMG3RqiTmsy7Li3zGFg,193356,5
+Shankar-Ehsaan-Loy,Bol Na Halke Halke,0.637,0.573,11,-6.69,0,0.0491,0.279,3.46e-06,0.0617,0.704,90.017,audio_features,0u8wprNfOdcWpUlWnfMcpP,spotify:track:0u8wprNfOdcWpUlWnfMcpP,https://api.spotify.com/v1/tracks/0u8wprNfOdcWpUlWnfMcpP,https://api.spotify.com/v1/audio-analysis/0u8wprNfOdcWpUlWnfMcpP,306834,4
+Meet Bros.,"Ijazat (From ""One Night Stand"")",0.519,0.463,6,-8.88,0,0.0264,0.327,0,0.106,0.224,94.965,audio_features,3JUmNYQyJKeRq2a3RR8K71,spotify:track:3JUmNYQyJKeRq2a3RR8K71,https://api.spotify.com/v1/tracks/3JUmNYQyJKeRq2a3RR8K71,https://api.spotify.com/v1/audio-analysis/3JUmNYQyJKeRq2a3RR8K71,288964,4
+Pritam,Labon Ko,0.63,0.837,9,-4.635,0,0.0387,0.329,0.00271,0.159,0.473,107.997,audio_features,5WncH5iZ5GFlnXm7jKEXVP,spotify:track:5WncH5iZ5GFlnXm7jKEXVP,https://api.spotify.com/v1/tracks/5WncH5iZ5GFlnXm7jKEXVP,https://api.spotify.com/v1/audio-analysis/5WncH5iZ5GFlnXm7jKEXVP,341028,4
+Arijit Singh,"Suno- Na Sangemarmar (From ""Youngistaan)",0.658,0.563,0,-8.91,0,0.0317,0.494,7.58e-05,0.378,0.582,119.98,audio_features,2ESscisnKdryn50fPeHd7O,spotify:track:2ESscisnKdryn50fPeHd7O,https://api.spotify.com/v1/tracks/2ESscisnKdryn50fPeHd7O,https://api.spotify.com/v1/audio-analysis/2ESscisnKdryn50fPeHd7O,201676,4
+Luis Miguel,No Sé Tú,0.389,0.443,10,-8.546,0,0.0304,0.571,0.00178,0.114,0.0888,76.54,audio_features,2DAsLftcRKP3iarCPmI1RY,spotify:track:2DAsLftcRKP3iarCPmI1RY,https://api.spotify.com/v1/tracks/2DAsLftcRKP3iarCPmI1RY,https://api.spotify.com/v1/audio-analysis/2DAsLftcRKP3iarCPmI1RY,229853,4
+Rahat Fateh Ali Khan,"Tere Bin (From ""Simmba"")",0.649,0.716,7,-3.936,1,0.0384,0.268,4.51e-06,0.603,0.639,86.949,audio_features,4f5kLqyOJ5ZPnalEVMQrB2,spotify:track:4f5kLqyOJ5ZPnalEVMQrB2,https://api.spotify.com/v1/tracks/4f5kLqyOJ5ZPnalEVMQrB2,https://api.spotify.com/v1/audio-analysis/4f5kLqyOJ5ZPnalEVMQrB2,230948,4
+Armaan Malik,"Dil Mein Ho Tum (From ""Cheat India"")",0.608,0.653,8,-7.573,0,0.0427,0.507,0.000243,0.107,0.423,86.933,audio_features,1mjWhM7GQTTxJxg2F0iCRS,spotify:track:1mjWhM7GQTTxJxg2F0iCRS,https://api.spotify.com/v1/tracks/1mjWhM7GQTTxJxg2F0iCRS,https://api.spotify.com/v1/audio-analysis/1mjWhM7GQTTxJxg2F0iCRS,326765,4
+Alejandro Fernández,Me Dediqué a Perderte,0.642,0.442,8,-9.115,1,0.074,0.491,1.58e-06,0.102,0.465,148.01,audio_features,4NUt1fcnO9aQAELBgXq3Kr,spotify:track:4NUt1fcnO9aQAELBgXq3Kr,https://api.spotify.com/v1/tracks/4NUt1fcnO9aQAELBgXq3Kr,https://api.spotify.com/v1/audio-analysis/4NUt1fcnO9aQAELBgXq3Kr,231773,4
+Vishal-Shekhar,Falak Tak,0.718,0.697,2,-6.474,0,0.135,0.634,1.53e-05,0.0563,0.62,143.907,audio_features,0IudGhdeJZwJ0Ps6ndtQDt,spotify:track:0IudGhdeJZwJ0Ps6ndtQDt,https://api.spotify.com/v1/tracks/0IudGhdeJZwJ0Ps6ndtQDt,https://api.spotify.com/v1/audio-analysis/0IudGhdeJZwJ0Ps6ndtQDt,356180,4
+Pritam,Hawayein,0.606,0.601,2,-5.576,1,0.0283,0.796,0.000511,0.127,0.453,125.961,audio_features,0l6g8Z8mqGbGXFOjigYetD,spotify:track:0l6g8Z8mqGbGXFOjigYetD,https://api.spotify.com/v1/tracks/0l6g8Z8mqGbGXFOjigYetD,https://api.spotify.com/v1/audio-analysis/0l6g8Z8mqGbGXFOjigYetD,289999,4
+Luis Miguel,Por Debajo De La Mesa,0.401,0.499,0,-7.643,1,0.0272,0.217,0,0.149,0.262,144.276,audio_features,4FqfHVML025cwjfhAOFbfa,spotify:track:4FqfHVML025cwjfhAOFbfa,https://api.spotify.com/v1/tracks/4FqfHVML025cwjfhAOFbfa,https://api.spotify.com/v1/audio-analysis/4FqfHVML025cwjfhAOFbfa,184080,4
+Arijit Singh,Tera Fitoor,0.576,0.688,9,-5.136,1,0.0319,0.346,0.0439,0.262,0.726,135.984,audio_features,1YMLgvsQdE27r30q0fsLeV,spotify:track:1YMLgvsQdE27r30q0fsLeV,https://api.spotify.com/v1/tracks/1YMLgvsQdE27r30q0fsLeV,https://api.spotify.com/v1/audio-analysis/1YMLgvsQdE27r30q0fsLeV,310000,4
+Armaan Malik,"Bol Do Na Zara (From ""Azhar"")",0.545,0.472,11,-8.259,0,0.0311,0.294,0,0.0871,0.195,129.988,audio_features,3XQ15TDH5wMJMJr0X6u2Yc,spotify:track:3XQ15TDH5wMJMJr0X6u2Yc,https://api.spotify.com/v1/tracks/3XQ15TDH5wMJMJr0X6u2Yc,https://api.spotify.com/v1/audio-analysis/3XQ15TDH5wMJMJr0X6u2Yc,292827,3
+Ash King,"Nazar Na Lag Jaaye (From ""Stree"")",0.527,0.622,7,-8.172,0,0.0842,0.7,2.82e-06,0.126,0.672,173.709,audio_features,0cWLJcdvM6QlOQ7UJdB4jb,spotify:track:0cWLJcdvM6QlOQ7UJdB4jb,https://api.spotify.com/v1/tracks/0cWLJcdvM6QlOQ7UJdB4jb,https://api.spotify.com/v1/audio-analysis/0cWLJcdvM6QlOQ7UJdB4jb,206175,4
+Chris de Burgh,The Lady In Red,0.548,0.294,10,-17.112,1,0.0333,0.332,3.34e-06,0.0392,0.491,76.698,audio_features,1GeNWyZtCHbcp3ZWp8GTOO,spotify:track:1GeNWyZtCHbcp3ZWp8GTOO,https://api.spotify.com/v1/tracks/1GeNWyZtCHbcp3ZWp8GTOO,https://api.spotify.com/v1/audio-analysis/1GeNWyZtCHbcp3ZWp8GTOO,256173,4
+Yasser Desai,"Dil Ko Karaar Aaya (From ""Sukoon"")",0.55,0.448,11,-9.117,1,0.0366,0.777,0.000459,0.111,0.388,147.986,audio_features,5urYiIXu1ZhfMAOsp7WDTc,spotify:track:5urYiIXu1ZhfMAOsp7WDTc,https://api.spotify.com/v1/tracks/5urYiIXu1ZhfMAOsp7WDTc,https://api.spotify.com/v1/audio-analysis/5urYiIXu1ZhfMAOsp7WDTc,231487,4
+Atif Aslam,Dil Meri Na Sune,0.574,0.729,9,-4.2,1,0.0473,0.349,1.85e-06,0.664,0.47,163.748,audio_features,4ILc7H2NfGbzbrHBclNOtB,spotify:track:4ILc7H2NfGbzbrHBclNOtB,https://api.spotify.com/v1/tracks/4ILc7H2NfGbzbrHBclNOtB,https://api.spotify.com/v1/audio-analysis/4ILc7H2NfGbzbrHBclNOtB,236000,4
+Armaan Malik,"Mujhko Barsaat Bana Lo (From ""Junooniyat"")",0.543,0.682,11,-4.869,0,0.0319,0.492,0,0.1,0.316,143.628,audio_features,5w8r50E1tZ9YGgAA02pqwO,spotify:track:5w8r50E1tZ9YGgAA02pqwO,https://api.spotify.com/v1/tracks/5w8r50E1tZ9YGgAA02pqwO,https://api.spotify.com/v1/audio-analysis/5w8r50E1tZ9YGgAA02pqwO,263066,4
+Mithoon,"Sanam Re (From ""Sanam Re"")",0.581,0.71,7,-4.961,0,0.0374,0.395,0,0.137,0.755,111.969,audio_features,3XWBGyt7m2rZAjEj0awWnw,spotify:track:3XWBGyt7m2rZAjEj0awWnw,https://api.spotify.com/v1/tracks/3XWBGyt7m2rZAjEj0awWnw,https://api.spotify.com/v1/audio-analysis/3XWBGyt7m2rZAjEj0awWnw,308714,4
+Rochak Kohli,Paniyon Sa,0.523,0.768,0,-4.953,0,0.0566,0.447,0.000226,0.0833,0.669,75.03,audio_features,2si0ZNx4yRbggTvrIom8A2,spotify:track:2si0ZNx4yRbggTvrIom8A2,https://api.spotify.com/v1/tracks/2si0ZNx4yRbggTvrIom8A2,https://api.spotify.com/v1/audio-analysis/2si0ZNx4yRbggTvrIom8A2,236240,4
+Luis Miguel,El Reloj,0.387,0.549,2,-7.74,0,0.0306,0.301,0,0.352,0.667,179.741,audio_features,6BTte0lvV5phb00xaxseC4,spotify:track:6BTte0lvV5phb00xaxseC4,https://api.spotify.com/v1/tracks/6BTte0lvV5phb00xaxseC4,https://api.spotify.com/v1/audio-analysis/6BTte0lvV5phb00xaxseC4,181853,4
+Pritam,Tum Mile,0.738,0.798,0,-6.663,1,0.0334,0.32,5.15e-06,0.31,0.793,123.01,audio_features,1EjxJHY9A6LMOlvyZdwDly,spotify:track:1EjxJHY9A6LMOlvyZdwDly,https://api.spotify.com/v1/tracks/1EjxJHY9A6LMOlvyZdwDly,https://api.spotify.com/v1/audio-analysis/1EjxJHY9A6LMOlvyZdwDly,343787,4
+Tulsi Kumar,Is Qadar,0.671,0.904,6,-2.736,0,0.0506,0.514,3.23e-05,0.0642,0.811,90.971,audio_features,3Rvdqwgbr3rryZkNRrItt3,spotify:track:3Rvdqwgbr3rryZkNRrItt3,https://api.spotify.com/v1/tracks/3Rvdqwgbr3rryZkNRrItt3,https://api.spotify.com/v1/audio-analysis/3Rvdqwgbr3rryZkNRrItt3,226313,4
+Darshan Raval,Teri Aankhon Mein,0.517,0.623,4,-6.812,1,0.0884,0.419,0,0.146,0.456,160.085,audio_features,3wmI2n0Whs6kg4MT8jFRU1,spotify:track:3wmI2n0Whs6kg4MT8jFRU1,https://api.spotify.com/v1/tracks/3wmI2n0Whs6kg4MT8jFRU1,https://api.spotify.com/v1/audio-analysis/3wmI2n0Whs6kg4MT8jFRU1,261758,3
+Sin Bandera,Te Vi Venir,0.625,0.315,4,-9.204,1,0.0349,0.862,0,0.102,0.46,135.795,audio_features,3WpUm0g3LnhZcdMDmaj3XM,spotify:track:3WpUm0g3LnhZcdMDmaj3XM,https://api.spotify.com/v1/tracks/3WpUm0g3LnhZcdMDmaj3XM,https://api.spotify.com/v1/audio-analysis/3WpUm0g3LnhZcdMDmaj3XM,194707,4
+Akhil Sachdeva,"Humsafar (From ""Badrinath Ki Dulhania"")",0.319,0.552,7,-6.401,1,0.0307,0.719,0,0.144,0.221,93.991,audio_features,7aE1lfskJLMHQnzCCP1zsV,spotify:track:7aE1lfskJLMHQnzCCP1zsV,https://api.spotify.com/v1/tracks/7aE1lfskJLMHQnzCCP1zsV,https://api.spotify.com/v1/audio-analysis/7aE1lfskJLMHQnzCCP1zsV,268463,4
+Armaan Malik,"Jab Tak (From ""M.S.Dhoni - The Untold Story"")",0.299,0.447,3,-7.862,0,0.0383,0.858,0.000314,0.097,0.321,121.723,audio_features,6tkl6rjuXWtVOCaXSSSCz2,spotify:track:6tkl6rjuXWtVOCaXSSSCz2,https://api.spotify.com/v1/tracks/6tkl6rjuXWtVOCaXSSSCz2,https://api.spotify.com/v1/audio-analysis/6tkl6rjuXWtVOCaXSSSCz2,174039,4
+Vishal Mishra,Manjha,0.524,0.515,11,-7.478,0,0.0427,0.674,0,0.104,0.368,169.882,audio_features,0UZLaEOSIc5kg0cc7eszqC,spotify:track:0UZLaEOSIc5kg0cc7eszqC,https://api.spotify.com/v1/tracks/0UZLaEOSIc5kg0cc7eszqC,https://api.spotify.com/v1/audio-analysis/0UZLaEOSIc5kg0cc7eszqC,191647,4
+Jubin Nautiyal,"Gazab Ka Hai Din (From ""Dil Juunglee"")",0.325,0.421,2,-8.636,1,0.0566,0.661,4.83e-06,0.0825,0.203,170.376,audio_features,4byiHL0b9mIoCUCjbjI4eA,spotify:track:4byiHL0b9mIoCUCjbjI4eA,https://api.spotify.com/v1/tracks/4byiHL0b9mIoCUCjbjI4eA,https://api.spotify.com/v1/audio-analysis/4byiHL0b9mIoCUCjbjI4eA,236325,4
+Luis Miguel,Historia De Un Amor,0.438,0.71,9,-7.607,0,0.0345,0.342,0,0.0881,0.275,82.743,audio_features,6av3uLAacGG7c9fjshWmuH,spotify:track:6av3uLAacGG7c9fjshWmuH,https://api.spotify.com/v1/tracks/6av3uLAacGG7c9fjshWmuH,https://api.spotify.com/v1/audio-analysis/6av3uLAacGG7c9fjshWmuH,234293,4
+Ranina Reddy,Malai Mangum Neram,0.668,0.504,1,-10.225,0,0.0566,0.388,0.3,0.0761,0.533,86.0,audio_features,2VrNpMt23IX5ZfROWM7wAi,spotify:track:2VrNpMt23IX5ZfROWM7wAi,https://api.spotify.com/v1/tracks/2VrNpMt23IX5ZfROWM7wAi,https://api.spotify.com/v1/audio-analysis/2VrNpMt23IX5ZfROWM7wAi,313601,4
+Pritam,Shayad,0.483,0.468,8,-7.642,1,0.0341,0.784,0,0.152,0.319,135.875,audio_features,1smFN2CLqGROu0J0UyvDfL,spotify:track:1smFN2CLqGROu0J0UyvDfL,https://api.spotify.com/v1/tracks/1smFN2CLqGROu0J0UyvDfL,https://api.spotify.com/v1/audio-analysis/1smFN2CLqGROu0J0UyvDfL,247941,4
+Ami Mishra,Hasi - Female Version,0.52,0.485,4,-6.438,0,0.0269,0.927,0.000466,0.159,0.407,143.901,audio_features,1cmZbGkCEVVAck2MsWpPYQ,spotify:track:1cmZbGkCEVVAck2MsWpPYQ,https://api.spotify.com/v1/tracks/1cmZbGkCEVVAck2MsWpPYQ,https://api.spotify.com/v1/audio-analysis/1cmZbGkCEVVAck2MsWpPYQ,192187,4
+Atif Aslam,Tera Hone Laga Hoon,0.686,0.771,8,-5.33,1,0.0303,0.545,0,0.127,0.551,119.981,audio_features,48Ix6ReYdJf2H4mKb3TIpj,spotify:track:48Ix6ReYdJf2H4mKb3TIpj,https://api.spotify.com/v1/tracks/48Ix6ReYdJf2H4mKb3TIpj,https://api.spotify.com/v1/audio-analysis/48Ix6ReYdJf2H4mKb3TIpj,299827,4
+Armaan Malik,"Sab Tera (From ""Baaghi"")",0.505,0.642,7,-5.864,1,0.0339,0.643,0,0.151,0.427,159.775,audio_features,2Rr8j88wr7SAYSwuekTJgx,spotify:track:2Rr8j88wr7SAYSwuekTJgx,https://api.spotify.com/v1/tracks/2Rr8j88wr7SAYSwuekTJgx,https://api.spotify.com/v1/audio-analysis/2Rr8j88wr7SAYSwuekTJgx,228117,4
+Franco De Vita,Tú de Qué Vas,0.607,0.629,11,-5.931,1,0.0316,0.405,0,0.203,0.567,80.11,audio_features,66iygyOSvvoQQsKJ1vEXfT,spotify:track:66iygyOSvvoQQsKJ1vEXfT,https://api.spotify.com/v1/tracks/66iygyOSvvoQQsKJ1vEXfT,https://api.spotify.com/v1/audio-analysis/66iygyOSvvoQQsKJ1vEXfT,238160,4
+Vishal-Shekhar,Ishq Wala Love,0.711,0.295,0,-12.377,0,0.0334,0.534,4.51e-05,0.0782,0.694,135.041,audio_features,1hQia6rxgfM1ly2hE3StWp,spotify:track:1hQia6rxgfM1ly2hE3StWp,https://api.spotify.com/v1/tracks/1hQia6rxgfM1ly2hE3StWp,https://api.spotify.com/v1/audio-analysis/1hQia6rxgfM1ly2hE3StWp,257973,4
+Amaal Mallik,Soch Na Sake,0.505,0.667,9,-5.797,1,0.0323,0.597,0,0.213,0.516,151.728,audio_features,6mTvwBzWTGDOVeCNQEqtOE,spotify:track:6mTvwBzWTGDOVeCNQEqtOE,https://api.spotify.com/v1/tracks/6mTvwBzWTGDOVeCNQEqtOE,https://api.spotify.com/v1/audio-analysis/6mTvwBzWTGDOVeCNQEqtOE,281323,4
+Pritam,Haan Tu Hain,0.415,0.904,2,-3.586,0,0.104,0.718,0,0.0739,0.729,83.648,audio_features,4vgCpNUUcpEIBifidhQOnR,spotify:track:4vgCpNUUcpEIBifidhQOnR,https://api.spotify.com/v1/tracks/4vgCpNUUcpEIBifidhQOnR,https://api.spotify.com/v1/audio-analysis/4vgCpNUUcpEIBifidhQOnR,324880,4
+Luis Miguel,No Me Platiques Más,0.488,0.61,0,-7.646,0,0.0289,0.382,3.24e-05,0.14,0.237,78.634,audio_features,1kS5xIvvytkr5Ut1JkQ9SM,spotify:track:1kS5xIvvytkr5Ut1JkQ9SM,https://api.spotify.com/v1/tracks/1kS5xIvvytkr5Ut1JkQ9SM,https://api.spotify.com/v1/audio-analysis/1kS5xIvvytkr5Ut1JkQ9SM,211440,4
+Udit Narayan,Chand Chhupa Badal Mein,0.402,0.61,11,-9.509,0,0.141,0.368,0,0.109,0.463,86.248,audio_features,6LVYBlYJ4pezcfk7V8Tttk,spotify:track:6LVYBlYJ4pezcfk7V8Tttk,https://api.spotify.com/v1/tracks/6LVYBlYJ4pezcfk7V8Tttk,https://api.spotify.com/v1/audio-analysis/6LVYBlYJ4pezcfk7V8Tttk,347013,4
+KK,"Ajab Si (From ""Om Shanti Om"")",0.697,0.438,8,-8.411,1,0.0289,0.399,0,0.293,0.58,117.955,audio_features,2RgvvnMwtP0R2OkVZmFvnV,spotify:track:2RgvvnMwtP0R2OkVZmFvnV,https://api.spotify.com/v1/tracks/2RgvvnMwtP0R2OkVZmFvnV,https://api.spotify.com/v1/audio-analysis/2RgvvnMwtP0R2OkVZmFvnV,241668,4
+Atif Aslam,Jab Koi Baat - Recreated,0.667,0.621,5,-5.697,1,0.0271,0.47,4.15e-05,0.13,0.451,106.032,audio_features,43GfQ1SC17rBWiHkOtdwK8,spotify:track:43GfQ1SC17rBWiHkOtdwK8,https://api.spotify.com/v1/tracks/43GfQ1SC17rBWiHkOtdwK8,https://api.spotify.com/v1/audio-analysis/43GfQ1SC17rBWiHkOtdwK8,192229,4
+Jatin-Lalit,Ae Kash Ke Hum,0.364,0.687,0,-7.967,1,0.0571,0.656,0,0.175,0.663,161.008,audio_features,1qyib2Wb5YTbNzZi7QMhEY,spotify:track:1qyib2Wb5YTbNzZi7QMhEY,https://api.spotify.com/v1/tracks/1qyib2Wb5YTbNzZi7QMhEY,https://api.spotify.com/v1/audio-analysis/1qyib2Wb5YTbNzZi7QMhEY,310427,3
+Luis Miguel,Amarte es un placer,0.242,0.334,10,-9.375,1,0.0344,0.343,0,0.0703,0.0851,179.708,audio_features,4lQWZGUrquRfH9se6nlmp3,spotify:track:4lQWZGUrquRfH9se6nlmp3,https://api.spotify.com/v1/tracks/4lQWZGUrquRfH9se6nlmp3,https://api.spotify.com/v1/audio-analysis/4lQWZGUrquRfH9se6nlmp3,211760,3
+Pritam,Kabira,0.59,0.555,2,-6.861,1,0.0271,0.481,0,0.192,0.191,84.027,audio_features,4bD9z9qa4qg9BhryvYWB7c,spotify:track:4bD9z9qa4qg9BhryvYWB7c,https://api.spotify.com/v1/tracks/4bD9z9qa4qg9BhryvYWB7c,https://api.spotify.com/v1/audio-analysis/4bD9z9qa4qg9BhryvYWB7c,223460,4
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,

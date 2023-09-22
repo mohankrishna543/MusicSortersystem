@@ -1,0 +1,201 @@
+artist,track,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Mangli,"Bhoom Bhaddhal (From ""Krack"")",0.508,0.983,2,-3.576,1,0.245,0.538,2.97e-05,0.0695,0.589,79.927,audio_features,6pM9FJtp8Bc3bEacpqbcCH,spotify:track:6pM9FJtp8Bc3bEacpqbcCH,https://api.spotify.com/v1/tracks/6pM9FJtp8Bc3bEacpqbcCH,https://api.spotify.com/v1/audio-analysis/6pM9FJtp8Bc3bEacpqbcCH,262090,4
+Shreya Ghoshal,Blockbuster,0.771,0.917,8,-7.103,1,0.0979,0.772,0.0447,0.204,0.696,82.002,audio_features,37S2kL71k5LOmGxzJ7JLzE,spotify:track:37S2kL71k5LOmGxzJ7JLzE,https://api.spotify.com/v1/tracks/37S2kL71k5LOmGxzJ7JLzE,https://api.spotify.com/v1/audio-analysis/37S2kL71k5LOmGxzJ7JLzE,304988,4
+"Devi Sri Prasad, Shravana Bhargavi, Magizhini Manimaran",Super Machi,0.759,0.948,7,-4.313,1,0.098,0.431,0.0334,0.0288,0.914,97.906,audio_features,3WTHnUPLqVZXSw54PFLtiL,spotify:track:3WTHnUPLqVZXSw54PFLtiL,https://api.spotify.com/v1/tracks/3WTHnUPLqVZXSw54PFLtiL,https://api.spotify.com/v1/audio-analysis/3WTHnUPLqVZXSw54PFLtiL,278189,4
+Yuvan Shankar Raja,Rowdy Baby,0.668,0.703,10,-8.192,0,0.199,0.281,0.0029,0.159,0.588,176.889,audio_features,0Tm5ER6IrGfmW0yZ5lkQli,spotify:track:0Tm5ER6IrGfmW0yZ5lkQli,https://api.spotify.com/v1/tracks/0Tm5ER6IrGfmW0yZ5lkQli,https://api.spotify.com/v1/audio-analysis/0Tm5ER6IrGfmW0yZ5lkQli,281440,3
+Dhanunjay Seepana,Whattey Beauty - Telugu,0.908,0.895,2,-3.161,1,0.0826,0.317,5.15e-05,0.142,0.794,120.776,audio_features,3KUD3u6xFEIewEQVppwXbH,spotify:track:3KUD3u6xFEIewEQVppwXbH,https://api.spotify.com/v1/tracks/3KUD3u6xFEIewEQVppwXbH,https://api.spotify.com/v1/audio-analysis/3KUD3u6xFEIewEQVppwXbH,234783,3
+M.C. Vickey,Private Party,0.715,0.935,8,-5.656,0,0.0384,0.559,0.00344,0.138,0.904,127.993,audio_features,55lcV76gPJUqAnHj3Z9xRd,spotify:track:55lcV76gPJUqAnHj3Z9xRd,https://api.spotify.com/v1/tracks/55lcV76gPJUqAnHj3Z9xRd,https://api.spotify.com/v1/audio-analysis/55lcV76gPJUqAnHj3Z9xRd,263440,4
+Yash Narvekar,"Muqabla (From ""Street Dancer 3D"") [Telugu]",0.821,0.907,0,-3.067,1,0.104,0.0207,2.31e-05,0.364,0.486,120.061,audio_features,5LWtYEKVLEpk4FBdGhZKxy,spotify:track:5LWtYEKVLEpk4FBdGhZKxy,https://api.spotify.com/v1/tracks/5LWtYEKVLEpk4FBdGhZKxy,https://api.spotify.com/v1/audio-analysis/5LWtYEKVLEpk4FBdGhZKxy,176477,4
+Dsp,Ek Baar,0.794,0.93,2,-4.3,1,0.25,0.589,9.61e-05,0.0776,0.704,139.922,audio_features,7KWksSySkwqGS3vo59yygt,spotify:track:7KWksSySkwqGS3vo59yygt,https://api.spotify.com/v1/tracks/7KWksSySkwqGS3vo59yygt,https://api.spotify.com/v1/audio-analysis/7KWksSySkwqGS3vo59yygt,259952,4
+Anirudh Ravichander,Chitike,0.652,0.922,8,-3.145,0,0.315,0.514,4.23e-06,0.041,0.656,159.378,audio_features,3vrcXIv9dclJYfpo5JshOp,spotify:track:3vrcXIv9dclJYfpo5JshOp,https://api.spotify.com/v1/tracks/3vrcXIv9dclJYfpo5JshOp,https://api.spotify.com/v1/audio-analysis/3vrcXIv9dclJYfpo5JshOp,240000,3
+Geetha Madhuri,"Pakka Local (From ""Janatha Garage"")",0.54,0.955,1,-3.241,1,0.219,0.293,0.0107,0.127,0.81,93.0,audio_features,3NWBLY8mOYbE1Ebo31cTIx,spotify:track:3NWBLY8mOYbE1Ebo31cTIx,https://api.spotify.com/v1/tracks/3NWBLY8mOYbE1Ebo31cTIx,https://api.spotify.com/v1/audio-analysis/3NWBLY8mOYbE1Ebo31cTIx,259330,4
+Mickey J. Meyer,"Jarra Jarra (From ""Valmiki"")",0.897,0.73,10,-9.589,0,0.111,0.258,4.32e-05,0.152,0.85,119.981,audio_features,1wVHlN2inEmT6f38MunqFi,spotify:track:1wVHlN2inEmT6f38MunqFi,https://api.spotify.com/v1/tracks/1wVHlN2inEmT6f38MunqFi,https://api.spotify.com/v1/audio-analysis/1wVHlN2inEmT6f38MunqFi,181856,4
+Anirudh Ravichander,"Massu Maranam - From ""Petta (Telugu)""",0.468,0.866,10,-5.857,0,0.384,0.415,2.15e-06,0.652,0.732,83.787,audio_features,1Nh7gea2bnOt9i3HQI1JCB,spotify:track:1Nh7gea2bnOt9i3HQI1JCB,https://api.spotify.com/v1/tracks/1Nh7gea2bnOt9i3HQI1JCB,https://api.spotify.com/v1/audio-analysis/1Nh7gea2bnOt9i3HQI1JCB,216000,4
+Rahul Sipligunj,"Glassmates (From ""Chitralahari"")",0.62,0.835,1,-3.283,1,0.264,0.405,0,0.052,0.802,76.203,audio_features,1u2S1xH9SvvrxedWMTZ79G,spotify:track:1u2S1xH9SvvrxedWMTZ79G,https://api.spotify.com/v1/tracks/1u2S1xH9SvvrxedWMTZ79G,https://api.spotify.com/v1/audio-analysis/1u2S1xH9SvvrxedWMTZ79G,214553,4
+Roll Rida,OMG Daddy - Telugu,0.83,0.61,1,-6.293,0,0.0555,0.252,1.27e-05,0.115,0.608,96.011,audio_features,0P8TCqG9wsZPUnvxqLNZ5k,spotify:track:0P8TCqG9wsZPUnvxqLNZ5k,https://api.spotify.com/v1/tracks/0P8TCqG9wsZPUnvxqLNZ5k,https://api.spotify.com/v1/audio-analysis/0P8TCqG9wsZPUnvxqLNZ5k,228125,4
+Simha Yadgiri,Cinema Choopistha Mama,0.671,0.896,0,-9.422,1,0.513,0.744,1.86e-06,0.0978,0.758,185.91,audio_features,4HTDl31KMbRxWrH778ffvV,spotify:track:4HTDl31KMbRxWrH778ffvV,https://api.spotify.com/v1/tracks/4HTDl31KMbRxWrH778ffvV,https://api.spotify.com/v1/audio-analysis/4HTDl31KMbRxWrH778ffvV,270064,4
+Rahul Sipligunj,Pedda Puli,0.767,0.864,6,-5.591,1,0.145,0.225,1.48e-05,0.141,0.679,140.062,audio_features,4PYJiAIsR6JlgGZbhXPPK1,spotify:track:4PYJiAIsR6JlgGZbhXPPK1,https://api.spotify.com/v1/tracks/4PYJiAIsR6JlgGZbhXPPK1,https://api.spotify.com/v1/audio-analysis/4PYJiAIsR6JlgGZbhXPPK1,231857,4
+Jaspreet Jasz,Seeti Maar,0.794,0.894,10,-2.476,0,0.0411,0.00364,0.0113,0.139,0.547,124.97,audio_features,5VayHAvzwBx4i87c1twFjS,spotify:track:5VayHAvzwBx4i87c1twFjS,https://api.spotify.com/v1/tracks/5VayHAvzwBx4i87c1twFjS,https://api.spotify.com/v1/audio-analysis/5VayHAvzwBx4i87c1twFjS,250680,4
+Blaaze,"Mind Block (From ""Sarileru Neekevvaru"")",0.922,0.921,7,-5.026,1,0.216,0.645,0.00536,0.0972,0.73,101.986,audio_features,15tCasit297c9SsbU3R95d,spotify:track:15tCasit297c9SsbU3R95d,https://api.spotify.com/v1/tracks/15tCasit297c9SsbU3R95d,https://api.spotify.com/v1/audio-analysis/15tCasit297c9SsbU3R95d,264824,4
+Nakash Aziz,"Daang Daang (From ""Sarileru Neekevvaru"")",0.831,0.819,4,-3.945,0,0.188,0.459,0.000138,0.69,0.801,137.946,audio_features,3qhq4cn3We0CXDIi44ckHa,spotify:track:3qhq4cn3We0CXDIi44ckHa,https://api.spotify.com/v1/tracks/3qhq4cn3We0CXDIi44ckHa,https://api.spotify.com/v1/audio-analysis/3qhq4cn3We0CXDIi44ckHa,254619,4
+Penchal Das,Dhaari Choodu,0.631,0.941,3,-4.162,0,0.278,0.397,0,0.0312,0.88,79.946,audio_features,3BBI3rftKYwZAuuIa1Z9fY,spotify:track:3BBI3rftKYwZAuuIa1Z9fY,https://api.spotify.com/v1/tracks/3BBI3rftKYwZAuuIa1Z9fY,https://api.spotify.com/v1/audio-analysis/3BBI3rftKYwZAuuIa1Z9fY,188684,4
+"Rahul Sipligunj, Mohana Bhogaraju",Iraga Iraga,0.48,0.988,2,-6.015,1,0.17,0.43,0.0145,0.18,0.27,168.089,audio_features,5o5MuoOU2QHVVyWJdkTXGK,spotify:track:5o5MuoOU2QHVVyWJdkTXGK,https://api.spotify.com/v1/tracks/5o5MuoOU2QHVVyWJdkTXGK,https://api.spotify.com/v1/audio-analysis/5o5MuoOU2QHVVyWJdkTXGK,240000,4
+Devi Sri Prasad,"Ammadu Let's Do Kummudu (From ""Khaidi No 150"")",0.537,0.952,9,-4.92,1,0.101,0.0917,0.0526,0.066,0.773,95.017,audio_features,3HH5xuxWEKrEIRwWrBI6I4,spotify:track:3HH5xuxWEKrEIRwWrBI6I4,https://api.spotify.com/v1/tracks/3HH5xuxWEKrEIRwWrBI6I4,https://api.spotify.com/v1/audio-analysis/3HH5xuxWEKrEIRwWrBI6I4,208158,4
+Mangli,Bullet,0.482,0.88,10,-4.716,0,0.134,0.354,3.42e-05,0.103,0.898,195.05,audio_features,1xKzEU01wRyVEHhJvXPTP5,spotify:track:1xKzEU01wRyVEHhJvXPTP5,https://api.spotify.com/v1/tracks/1xKzEU01wRyVEHhJvXPTP5,https://api.spotify.com/v1/audio-analysis/1xKzEU01wRyVEHhJvXPTP5,206769,3
+Sweekar Agasthi,Hulala,0.751,0.8,3,-4.989,0,0.0395,0.329,1.88e-06,0.303,0.585,128.001,audio_features,5gqJBYwrpYcFtQ2TW8sokT,spotify:track:5gqJBYwrpYcFtQ2TW8sokT,https://api.spotify.com/v1/tracks/5gqJBYwrpYcFtQ2TW8sokT,https://api.spotify.com/v1/audio-analysis/5gqJBYwrpYcFtQ2TW8sokT,223253,4
+Baba Sehgal,Light Theesko,0.786,0.914,7,-4.243,1,0.116,0.164,0.000678,0.356,0.852,135.987,audio_features,6WUHTxhrhP7HzcbPxkYmsh,spotify:track:6WUHTxhrhP7HzcbPxkYmsh,https://api.spotify.com/v1/tracks/6WUHTxhrhP7HzcbPxkYmsh,https://api.spotify.com/v1/audio-analysis/6WUHTxhrhP7HzcbPxkYmsh,265071,4
+Mani Sharma,"Bombhaat - From ""LIE""",0.836,0.822,1,-4.745,1,0.172,0.235,0,0.123,0.322,97.024,audio_features,3dpG9UvGYjcQX7SPiLYSW7,spotify:track:3dpG9UvGYjcQX7SPiLYSW7,https://api.spotify.com/v1/tracks/3dpG9UvGYjcQX7SPiLYSW7,https://api.spotify.com/v1/audio-analysis/3dpG9UvGYjcQX7SPiLYSW7,243711,4
+Nakash Aziz,Ratthaalu,0.824,0.935,7,-3.633,1,0.0974,0.248,0.0829,0.0969,0.937,138.989,audio_features,49bXxI5G1fTOuVRr56s5fr,spotify:track:49bXxI5G1fTOuVRr56s5fr,https://api.spotify.com/v1/tracks/49bXxI5G1fTOuVRr56s5fr,https://api.spotify.com/v1/audio-analysis/49bXxI5G1fTOuVRr56s5fr,262240,4
+Narendra,Colorful Chilaka,0.799,0.822,4,-5.9,0,0.0951,0.694,9.06e-05,0.049,0.963,96.002,audio_features,6Tve6cDltGAxo5dqWxIF9y,spotify:track:6Tve6cDltGAxo5dqWxIF9y,https://api.spotify.com/v1/tracks/6Tve6cDltGAxo5dqWxIF9y,https://api.spotify.com/v1/audio-analysis/6Tve6cDltGAxo5dqWxIF9y,228760,4
+Geetha Madhuri,Door Number Okati,0.59,0.843,11,-6.614,0,0.296,0.317,0.00167,0.203,0.617,80.991,audio_features,4yNJ3anRH1rMJzcDDTlOOk,spotify:track:4yNJ3anRH1rMJzcDDTlOOk,https://api.spotify.com/v1/tracks/4yNJ3anRH1rMJzcDDTlOOk,https://api.spotify.com/v1/audio-analysis/4yNJ3anRH1rMJzcDDTlOOk,243043,4
+Sagar,Top Lesi Poddi,0.64,0.938,0,-3.423,0,0.185,0.104,0.000116,0.119,0.898,82.874,audio_features,48DXKwPRiMAjr0YfXGfVVo,spotify:track:48DXKwPRiMAjr0YfXGfVVo,https://api.spotify.com/v1/tracks/48DXKwPRiMAjr0YfXGfVVo,https://api.spotify.com/v1/audio-analysis/48DXKwPRiMAjr0YfXGfVVo,257926,4
+Devi Sri Prasad,Who R U,0.707,0.948,7,-3.907,1,0.0723,0.0572,0.0538,0.879,0.78,138.035,audio_features,40Z8bpGJPxjClb4NK8j0LJ,spotify:track:40Z8bpGJPxjClb4NK8j0LJ,https://api.spotify.com/v1/tracks/40Z8bpGJPxjClb4NK8j0LJ,https://api.spotify.com/v1/audio-analysis/40Z8bpGJPxjClb4NK8j0LJ,291519,4
+Devi Sri Prasad,My Love Is Gone,0.739,0.947,9,-3.41,0,0.0549,0.067,0.0932,0.0536,0.739,132.99,audio_features,0DpBhHvxAOZUhaRh33dIUK,spotify:track:0DpBhHvxAOZUhaRh33dIUK,https://api.spotify.com/v1/tracks/0DpBhHvxAOZUhaRh33dIUK,https://api.spotify.com/v1/audio-analysis/0DpBhHvxAOZUhaRh33dIUK,288960,4
+Armaan Malik,Buttabomma - Telugu,0.666,0.644,11,-8.964,0,0.145,0.753,0.000262,0.124,0.89,115.1,audio_features,0dnDTvdUco2UbaBjUtPxNS,spotify:track:0dnDTvdUco2UbaBjUtPxNS,https://api.spotify.com/v1/tracks/0dnDTvdUco2UbaBjUtPxNS,https://api.spotify.com/v1/audio-analysis/0dnDTvdUco2UbaBjUtPxNS,198783,4
+Sid Sriram,Samajavaragamana,0.568,0.663,8,-6.179,1,0.0345,0.91,4.82e-05,0.124,0.808,165.203,audio_features,3j9DrRebdWK1jkpOw9FZUy,spotify:track:3j9DrRebdWK1jkpOw9FZUy,https://api.spotify.com/v1/tracks/3j9DrRebdWK1jkpOw9FZUy,https://api.spotify.com/v1/audio-analysis/3j9DrRebdWK1jkpOw9FZUy,219818,3
+Devi Sri Prasad,Ringa Ringa,0.72,0.949,5,-3.133,0,0.237,0.172,9.55e-05,0.0836,0.956,82.98,audio_features,3APiIzLQYIitzR8F3oG1fV,spotify:track:3APiIzLQYIitzR8F3oG1fV,https://api.spotify.com/v1/tracks/3APiIzLQYIitzR8F3oG1fV,https://api.spotify.com/v1/audio-analysis/3APiIzLQYIitzR8F3oG1fV,333960,4
+Anurag Kulkarni,Ramuloo Ramulaa - Duet,0.663,0.913,5,-4.681,0,0.152,0.415,0.000496,0.158,0.805,187.552,audio_features,4uXJADmybUHUgycBWFHeq6,spotify:track:4uXJADmybUHUgycBWFHeq6,https://api.spotify.com/v1/tracks/4uXJADmybUHUgycBWFHeq6,https://api.spotify.com/v1/audio-analysis/4uXJADmybUHUgycBWFHeq6,245760,3
+Sooranna,Sittharala Sirapadu,0.645,0.446,8,-6.504,1,0.173,0.821,0,0.101,0.801,79.239,audio_features,2yIU71Z6VgPOEaLp0VwFpN,spotify:track:2yIU71Z6VgPOEaLp0VwFpN,https://api.spotify.com/v1/tracks/2yIU71Z6VgPOEaLp0VwFpN,https://api.spotify.com/v1/audio-analysis/2yIU71Z6VgPOEaLp0VwFpN,186657,3
+Ram Miriyala,"Chitti (From ""Jathi Ratnalu"")",0.572,0.679,7,-7.239,1,0.536,0.246,0,0.0835,0.838,208.196,audio_features,6Z40IRipd6pNcUULY6SXng,spotify:track:6Z40IRipd6pNcUULY6SXng,https://api.spotify.com/v1/tracks/6Z40IRipd6pNcUULY6SXng,https://api.spotify.com/v1/audio-analysis/6Z40IRipd6pNcUULY6SXng,184128,4
+Mickey J. Meyer,"Bhalegundi Baalaa (From ""Sreekaram"")",0.743,0.81,7,-10.2,1,0.0578,0.504,0.000175,0.0683,0.634,96.992,audio_features,3S1bUkPhTRTNkSCxhkUgP0,spotify:track:3S1bUkPhTRTNkSCxhkUgP0,https://api.spotify.com/v1/tracks/3S1bUkPhTRTNkSCxhkUgP0,https://api.spotify.com/v1/audio-analysis/3S1bUkPhTRTNkSCxhkUgP0,268296,4
+Kala Bhairava,Tharagathi Gadhi - Telugu,0.583,0.644,7,-6.64,1,0.0378,0.628,0,0.0941,0.547,114.953,audio_features,7El6rXuDiiMNreCDv5QKBD,spotify:track:7El6rXuDiiMNreCDv5QKBD,https://api.spotify.com/v1/tracks/7El6rXuDiiMNreCDv5QKBD,https://api.spotify.com/v1/audio-analysis/7El6rXuDiiMNreCDv5QKBD,213437,4
+G. V. Prakash,"Kaatuka Kanule (From ""Aakaasam Nee Haddhu Ra"")",0.751,0.571,2,-7.829,1,0.236,0.437,6e-05,0.357,0.571,78.996,audio_features,1HobaVS51OdBZqNmqt1TX7,spotify:track:1HobaVS51OdBZqNmqt1TX7,https://api.spotify.com/v1/tracks/1HobaVS51OdBZqNmqt1TX7,https://api.spotify.com/v1/audio-analysis/1HobaVS51OdBZqNmqt1TX7,246000,4
+Pravin Lakkaraju,Emo Emo Emo Nannu Taake Haaye Premo,0.356,0.504,8,-7.367,1,0.035,0.419,0,0.208,0.151,100.011,audio_features,5GkNYFFmyDe0Y8zJYDEf71,spotify:track:5GkNYFFmyDe0Y8zJYDEf71,https://api.spotify.com/v1/tracks/5GkNYFFmyDe0Y8zJYDEf71,https://api.spotify.com/v1/audio-analysis/5GkNYFFmyDe0Y8zJYDEf71,243000,3
+Sudharshan Ashok,Prema Vennela,0.673,0.63,2,-8.748,0,0.0338,0.534,2.05e-05,0.0454,0.744,80.002,audio_features,5mBwJ0Dl4GSoXwbATPtcsj,spotify:track:5mBwJ0Dl4GSoXwbATPtcsj,https://api.spotify.com/v1/tracks/5mBwJ0Dl4GSoXwbATPtcsj,https://api.spotify.com/v1/audio-analysis/5mBwJ0Dl4GSoXwbATPtcsj,217875,4
+"Mano, Ramya Behara",Guvva Gorinkatho,0.856,0.791,1,-5.262,0,0.0658,0.509,0.0139,0.37,0.877,108.758,audio_features,62HclXbyPW0UaqobR9TIWG,spotify:track:62HclXbyPW0UaqobR9TIWG,https://api.spotify.com/v1/tracks/62HclXbyPW0UaqobR9TIWG,https://api.spotify.com/v1/audio-analysis/62HclXbyPW0UaqobR9TIWG,261503,3
+Keerthana Sharma,"Dinchak (From ""Red"")",0.853,0.863,0,-4.456,1,0.22,0.136,1.95e-05,0.0465,0.645,145.0,audio_features,0iT2FnhutL3yJh7DXy1SOG,spotify:track:0iT2FnhutL3yJh7DXy1SOG,https://api.spotify.com/v1/tracks/0iT2FnhutL3yJh7DXy1SOG,https://api.spotify.com/v1/audio-analysis/0iT2FnhutL3yJh7DXy1SOG,319089,4
+Arun Kaundinya,La La Bheemla,0.503,0.901,0,-3.458,1,0.338,0.715,0,0.316,0.631,79.402,audio_features,2B5ovomAAUAZtLGArf4wdw,spotify:track:2B5ovomAAUAZtLGArf4wdw,https://api.spotify.com/v1/tracks/2B5ovomAAUAZtLGArf4wdw,https://api.spotify.com/v1/audio-analysis/2B5ovomAAUAZtLGArf4wdw,147942,4
+Devi Sri Prasad,Boss Party,0.897,0.816,7,-5.357,1,0.239,0.0395,0.000549,0.26,0.637,143.913,audio_features,4sJ9X27MSCue4d0t48MXwe,spotify:track:4sJ9X27MSCue4d0t48MXwe,https://api.spotify.com/v1/tracks/4sJ9X27MSCue4d0t48MXwe,https://api.spotify.com/v1/audio-analysis/4sJ9X27MSCue4d0t48MXwe,200208,4
+Mani Sharma,Bhale Bhale Banjara,0.795,0.851,2,-4.053,0,0.0657,0.113,9.29e-05,0.187,0.918,113.0,audio_features,1GP0KRgqPjkzG9SGuYZKZA,spotify:track:1GP0KRgqPjkzG9SGuYZKZA,https://api.spotify.com/v1/tracks/1GP0KRgqPjkzG9SGuYZKZA,https://api.spotify.com/v1/audio-analysis/1GP0KRgqPjkzG9SGuYZKZA,259098,4
+Anirudh Ravichander,"Psycho Saiyaan (From ""Saaho"")",0.785,0.746,10,-2.672,0,0.149,0.0916,1.98e-05,0.121,0.864,189.988,audio_features,2IbRKQwgiyvXY1yVq8GuA3,spotify:track:2IbRKQwgiyvXY1yVq8GuA3,https://api.spotify.com/v1/tracks/2IbRKQwgiyvXY1yVq8GuA3,https://api.spotify.com/v1/audio-analysis/2IbRKQwgiyvXY1yVq8GuA3,166294,4
+Thaman S,Jai Balayya Mass Anthem,0.609,0.964,11,-5.844,0,0.213,0.582,5.64e-05,0.302,0.831,79.026,audio_features,6Ic8DEtpraRuSk1eY4q2ms,spotify:track:6Ic8DEtpraRuSk1eY4q2ms,https://api.spotify.com/v1/tracks/6Ic8DEtpraRuSk1eY4q2ms,https://api.spotify.com/v1/audio-analysis/6Ic8DEtpraRuSk1eY4q2ms,230791,4
+Thaman S,"Maa Bava Manobhavalu (From ""Veera Simha Reddy"")",0.655,0.974,9,-4.994,1,0.194,0.606,0.149,0.0835,0.486,80.008,audio_features,2aJsalAXemhbfqK114nxAG,spotify:track:2aJsalAXemhbfqK114nxAG,https://api.spotify.com/v1/tracks/2aJsalAXemhbfqK114nxAG,https://api.spotify.com/v1/audio-analysis/2aJsalAXemhbfqK114nxAG,288875,4
+Thaman S,Mass Mogudu,0.788,0.926,1,-6.289,0,0.0777,0.472,0.0585,0.188,0.859,103.022,audio_features,5nEjsGzLxnMxMMTH6yAUXq,spotify:track:5nEjsGzLxnMxMMTH6yAUXq,https://api.spotify.com/v1/tracks/5nEjsGzLxnMxMMTH6yAUXq,https://api.spotify.com/v1/audio-analysis/5nEjsGzLxnMxMMTH6yAUXq,207379,4
+Anirudh Ravichander,Mathuga Mathuga,0.826,0.812,0,-5.693,1,0.393,0.323,0,0.055,0.919,130.033,audio_features,5dOQcfokQavdnjonIy0qyJ,spotify:track:5dOQcfokQavdnjonIy0qyJ,https://api.spotify.com/v1/tracks/5dOQcfokQavdnjonIy0qyJ,https://api.spotify.com/v1/audio-analysis/5dOQcfokQavdnjonIy0qyJ,211385,4
+Anirudh Ravichander,Once Upon a Time,0.646,0.879,1,-3.668,1,0.0823,0.00659,0.0607,0.117,0.429,123.849,audio_features,4wCy7erulqUfFQNVaZBD9b,spotify:track:4wCy7erulqUfFQNVaZBD9b,https://api.spotify.com/v1/tracks/4wCy7erulqUfFQNVaZBD9b,https://api.spotify.com/v1/audio-analysis/4wCy7erulqUfFQNVaZBD9b,143710,4
+Anirudh Ravichander,Porata Simham,0.53,0.595,5,-6.431,0,0.028,0.588,0.000857,0.383,0.541,120.002,audio_features,7L8xOpcR5CBkHar4V82baG,spotify:track:7L8xOpcR5CBkHar4V82baG,https://api.spotify.com/v1/tracks/7L8xOpcR5CBkHar4V82baG,https://api.spotify.com/v1/audio-analysis/7L8xOpcR5CBkHar4V82baG,198000,3
+Surya Js,"Santhanam Theme (From ""Vikram"")",0.552,0.902,9,-6.664,1,0.0982,0.0702,0.219,0.0798,0.314,104.701,audio_features,6IhiG0SZiTJKvbEMcXsij8,spotify:track:6IhiG0SZiTJKvbEMcXsij8,https://api.spotify.com/v1/tracks/6IhiG0SZiTJKvbEMcXsij8,https://api.spotify.com/v1/audio-analysis/6IhiG0SZiTJKvbEMcXsij8,100643,4
+Mr.MSK,Rolex (from Vikram) BGM Recreated,0.575,0.677,1,-10.284,1,0.0513,0.00354,0.697,0.604,0.263,96.991,audio_features,7gMdFuBaHitJ0PEmqYzlB0,spotify:track:7gMdFuBaHitJ0PEmqYzlB0,https://api.spotify.com/v1/tracks/7gMdFuBaHitJ0PEmqYzlB0,https://api.spotify.com/v1/audio-analysis/7gMdFuBaHitJ0PEmqYzlB0,109866,4
+Anirudh Ravichander,Vikram Title Track - Telugu,0.643,0.874,10,-3.604,1,0.0508,0.253,0.00198,0.127,0.118,169.982,audio_features,2mldMnu7kHSm4l5se4Zo7Y,spotify:track:2mldMnu7kHSm4l5se4Zo7Y,https://api.spotify.com/v1/tracks/2mldMnu7kHSm4l5se4Zo7Y,https://api.spotify.com/v1/audio-analysis/2mldMnu7kHSm4l5se4Zo7Y,218824,4
+Rahul Sipligunj,"Naatu Naatu (From ""Rrr"")",0.405,0.988,10,-3.843,0,0.0992,0.355,0.113,0.0815,0.703,160.052,audio_features,4iKGu3xtvm90eBw0EIPWJP,spotify:track:4iKGu3xtvm90eBw0EIPWJP,https://api.spotify.com/v1/tracks/4iKGu3xtvm90eBw0EIPWJP,https://api.spotify.com/v1/audio-analysis/4iKGu3xtvm90eBw0EIPWJP,214400,4
+Mangli,"Bhoom Bhaddhal (From ""Krack"")",0.508,0.983,2,-3.576,1,0.245,0.538,2.97e-05,0.0695,0.589,79.927,audio_features,6pM9FJtp8Bc3bEacpqbcCH,spotify:track:6pM9FJtp8Bc3bEacpqbcCH,https://api.spotify.com/v1/tracks/6pM9FJtp8Bc3bEacpqbcCH,https://api.spotify.com/v1/audio-analysis/6pM9FJtp8Bc3bEacpqbcCH,262090,4
+Shreya Ghoshal,Blockbuster,0.771,0.917,8,-7.103,1,0.0979,0.772,0.0447,0.204,0.696,82.002,audio_features,37S2kL71k5LOmGxzJ7JLzE,spotify:track:37S2kL71k5LOmGxzJ7JLzE,https://api.spotify.com/v1/tracks/37S2kL71k5LOmGxzJ7JLzE,https://api.spotify.com/v1/audio-analysis/37S2kL71k5LOmGxzJ7JLzE,304988,4
+"Devi Sri Prasad, Shravana Bhargavi, Magizhini Manimaran",Super Machi,0.759,0.948,7,-4.313,1,0.098,0.431,0.0334,0.0288,0.914,97.906,audio_features,3WTHnUPLqVZXSw54PFLtiL,spotify:track:3WTHnUPLqVZXSw54PFLtiL,https://api.spotify.com/v1/tracks/3WTHnUPLqVZXSw54PFLtiL,https://api.spotify.com/v1/audio-analysis/3WTHnUPLqVZXSw54PFLtiL,278189,4
+Yuvan Shankar Raja,Rowdy Baby,0.668,0.703,10,-8.192,0,0.199,0.281,0.0029,0.159,0.588,176.889,audio_features,0Tm5ER6IrGfmW0yZ5lkQli,spotify:track:0Tm5ER6IrGfmW0yZ5lkQli,https://api.spotify.com/v1/tracks/0Tm5ER6IrGfmW0yZ5lkQli,https://api.spotify.com/v1/audio-analysis/0Tm5ER6IrGfmW0yZ5lkQli,281440,3
+Dhanunjay Seepana,Whattey Beauty - Telugu,0.908,0.895,2,-3.161,1,0.0826,0.317,5.15e-05,0.142,0.794,120.776,audio_features,3KUD3u6xFEIewEQVppwXbH,spotify:track:3KUD3u6xFEIewEQVppwXbH,https://api.spotify.com/v1/tracks/3KUD3u6xFEIewEQVppwXbH,https://api.spotify.com/v1/audio-analysis/3KUD3u6xFEIewEQVppwXbH,234783,3
+M.C. Vickey,Private Party,0.715,0.935,8,-5.656,0,0.0384,0.559,0.00344,0.138,0.904,127.993,audio_features,55lcV76gPJUqAnHj3Z9xRd,spotify:track:55lcV76gPJUqAnHj3Z9xRd,https://api.spotify.com/v1/tracks/55lcV76gPJUqAnHj3Z9xRd,https://api.spotify.com/v1/audio-analysis/55lcV76gPJUqAnHj3Z9xRd,263440,4
+Yash Narvekar,"Muqabla (From ""Street Dancer 3D"") [Telugu]",0.821,0.907,0,-3.067,1,0.104,0.0207,2.31e-05,0.364,0.486,120.061,audio_features,5LWtYEKVLEpk4FBdGhZKxy,spotify:track:5LWtYEKVLEpk4FBdGhZKxy,https://api.spotify.com/v1/tracks/5LWtYEKVLEpk4FBdGhZKxy,https://api.spotify.com/v1/audio-analysis/5LWtYEKVLEpk4FBdGhZKxy,176477,4
+Dsp,Ek Baar,0.794,0.93,2,-4.3,1,0.25,0.589,9.61e-05,0.0776,0.704,139.922,audio_features,7KWksSySkwqGS3vo59yygt,spotify:track:7KWksSySkwqGS3vo59yygt,https://api.spotify.com/v1/tracks/7KWksSySkwqGS3vo59yygt,https://api.spotify.com/v1/audio-analysis/7KWksSySkwqGS3vo59yygt,259952,4
+Anirudh Ravichander,Chitike,0.652,0.922,8,-3.145,0,0.315,0.514,4.23e-06,0.041,0.656,159.378,audio_features,3vrcXIv9dclJYfpo5JshOp,spotify:track:3vrcXIv9dclJYfpo5JshOp,https://api.spotify.com/v1/tracks/3vrcXIv9dclJYfpo5JshOp,https://api.spotify.com/v1/audio-analysis/3vrcXIv9dclJYfpo5JshOp,240000,3
+Geetha Madhuri,"Pakka Local (From ""Janatha Garage"")",0.54,0.955,1,-3.241,1,0.219,0.293,0.0107,0.127,0.81,93.0,audio_features,3NWBLY8mOYbE1Ebo31cTIx,spotify:track:3NWBLY8mOYbE1Ebo31cTIx,https://api.spotify.com/v1/tracks/3NWBLY8mOYbE1Ebo31cTIx,https://api.spotify.com/v1/audio-analysis/3NWBLY8mOYbE1Ebo31cTIx,259330,4
+Mickey J. Meyer,"Jarra Jarra (From ""Valmiki"")",0.897,0.73,10,-9.589,0,0.111,0.258,4.32e-05,0.152,0.85,119.981,audio_features,1wVHlN2inEmT6f38MunqFi,spotify:track:1wVHlN2inEmT6f38MunqFi,https://api.spotify.com/v1/tracks/1wVHlN2inEmT6f38MunqFi,https://api.spotify.com/v1/audio-analysis/1wVHlN2inEmT6f38MunqFi,181856,4
+Anirudh Ravichander,"Massu Maranam - From ""Petta (Telugu)""",0.468,0.866,10,-5.857,0,0.384,0.415,2.15e-06,0.652,0.732,83.787,audio_features,1Nh7gea2bnOt9i3HQI1JCB,spotify:track:1Nh7gea2bnOt9i3HQI1JCB,https://api.spotify.com/v1/tracks/1Nh7gea2bnOt9i3HQI1JCB,https://api.spotify.com/v1/audio-analysis/1Nh7gea2bnOt9i3HQI1JCB,216000,4
+Rahul Sipligunj,"Glassmates (From ""Chitralahari"")",0.62,0.835,1,-3.283,1,0.264,0.405,0,0.052,0.802,76.203,audio_features,1u2S1xH9SvvrxedWMTZ79G,spotify:track:1u2S1xH9SvvrxedWMTZ79G,https://api.spotify.com/v1/tracks/1u2S1xH9SvvrxedWMTZ79G,https://api.spotify.com/v1/audio-analysis/1u2S1xH9SvvrxedWMTZ79G,214553,4
+Roll Rida,OMG Daddy - Telugu,0.83,0.61,1,-6.293,0,0.0555,0.252,1.27e-05,0.115,0.608,96.011,audio_features,0P8TCqG9wsZPUnvxqLNZ5k,spotify:track:0P8TCqG9wsZPUnvxqLNZ5k,https://api.spotify.com/v1/tracks/0P8TCqG9wsZPUnvxqLNZ5k,https://api.spotify.com/v1/audio-analysis/0P8TCqG9wsZPUnvxqLNZ5k,228125,4
+Simha Yadgiri,Cinema Choopistha Mama,0.671,0.896,0,-9.422,1,0.513,0.744,1.86e-06,0.0978,0.758,185.91,audio_features,4HTDl31KMbRxWrH778ffvV,spotify:track:4HTDl31KMbRxWrH778ffvV,https://api.spotify.com/v1/tracks/4HTDl31KMbRxWrH778ffvV,https://api.spotify.com/v1/audio-analysis/4HTDl31KMbRxWrH778ffvV,270064,4
+Rahul Sipligunj,Pedda Puli,0.767,0.864,6,-5.591,1,0.145,0.225,1.48e-05,0.141,0.679,140.062,audio_features,4PYJiAIsR6JlgGZbhXPPK1,spotify:track:4PYJiAIsR6JlgGZbhXPPK1,https://api.spotify.com/v1/tracks/4PYJiAIsR6JlgGZbhXPPK1,https://api.spotify.com/v1/audio-analysis/4PYJiAIsR6JlgGZbhXPPK1,231857,4
+Jaspreet Jasz,Seeti Maar,0.794,0.894,10,-2.476,0,0.0411,0.00364,0.0113,0.139,0.547,124.97,audio_features,5VayHAvzwBx4i87c1twFjS,spotify:track:5VayHAvzwBx4i87c1twFjS,https://api.spotify.com/v1/tracks/5VayHAvzwBx4i87c1twFjS,https://api.spotify.com/v1/audio-analysis/5VayHAvzwBx4i87c1twFjS,250680,4
+Blaaze,"Mind Block (From ""Sarileru Neekevvaru"")",0.922,0.921,7,-5.026,1,0.216,0.645,0.00536,0.0972,0.73,101.986,audio_features,15tCasit297c9SsbU3R95d,spotify:track:15tCasit297c9SsbU3R95d,https://api.spotify.com/v1/tracks/15tCasit297c9SsbU3R95d,https://api.spotify.com/v1/audio-analysis/15tCasit297c9SsbU3R95d,264824,4
+Nakash Aziz,"Daang Daang (From ""Sarileru Neekevvaru"")",0.831,0.819,4,-3.945,0,0.188,0.459,0.000138,0.69,0.801,137.946,audio_features,3qhq4cn3We0CXDIi44ckHa,spotify:track:3qhq4cn3We0CXDIi44ckHa,https://api.spotify.com/v1/tracks/3qhq4cn3We0CXDIi44ckHa,https://api.spotify.com/v1/audio-analysis/3qhq4cn3We0CXDIi44ckHa,254619,4
+Penchal Das,Dhaari Choodu,0.631,0.941,3,-4.162,0,0.278,0.397,0,0.0312,0.88,79.946,audio_features,3BBI3rftKYwZAuuIa1Z9fY,spotify:track:3BBI3rftKYwZAuuIa1Z9fY,https://api.spotify.com/v1/tracks/3BBI3rftKYwZAuuIa1Z9fY,https://api.spotify.com/v1/audio-analysis/3BBI3rftKYwZAuuIa1Z9fY,188684,4
+"Rahul Sipligunj, Mohana Bhogaraju",Iraga Iraga,0.48,0.988,2,-6.015,1,0.17,0.43,0.0145,0.18,0.27,168.089,audio_features,5o5MuoOU2QHVVyWJdkTXGK,spotify:track:5o5MuoOU2QHVVyWJdkTXGK,https://api.spotify.com/v1/tracks/5o5MuoOU2QHVVyWJdkTXGK,https://api.spotify.com/v1/audio-analysis/5o5MuoOU2QHVVyWJdkTXGK,240000,4
+Devi Sri Prasad,"Ammadu Let's Do Kummudu (From ""Khaidi No 150"")",0.537,0.952,9,-4.92,1,0.101,0.0917,0.0526,0.066,0.773,95.017,audio_features,3HH5xuxWEKrEIRwWrBI6I4,spotify:track:3HH5xuxWEKrEIRwWrBI6I4,https://api.spotify.com/v1/tracks/3HH5xuxWEKrEIRwWrBI6I4,https://api.spotify.com/v1/audio-analysis/3HH5xuxWEKrEIRwWrBI6I4,208158,4
+Mangli,Bullet,0.482,0.88,10,-4.716,0,0.134,0.354,3.42e-05,0.103,0.898,195.05,audio_features,1xKzEU01wRyVEHhJvXPTP5,spotify:track:1xKzEU01wRyVEHhJvXPTP5,https://api.spotify.com/v1/tracks/1xKzEU01wRyVEHhJvXPTP5,https://api.spotify.com/v1/audio-analysis/1xKzEU01wRyVEHhJvXPTP5,206769,3
+Sweekar Agasthi,Hulala,0.751,0.8,3,-4.989,0,0.0395,0.329,1.88e-06,0.303,0.585,128.001,audio_features,5gqJBYwrpYcFtQ2TW8sokT,spotify:track:5gqJBYwrpYcFtQ2TW8sokT,https://api.spotify.com/v1/tracks/5gqJBYwrpYcFtQ2TW8sokT,https://api.spotify.com/v1/audio-analysis/5gqJBYwrpYcFtQ2TW8sokT,223253,4
+Baba Sehgal,Light Theesko,0.786,0.914,7,-4.243,1,0.116,0.164,0.000678,0.356,0.852,135.987,audio_features,6WUHTxhrhP7HzcbPxkYmsh,spotify:track:6WUHTxhrhP7HzcbPxkYmsh,https://api.spotify.com/v1/tracks/6WUHTxhrhP7HzcbPxkYmsh,https://api.spotify.com/v1/audio-analysis/6WUHTxhrhP7HzcbPxkYmsh,265071,4
+Mani Sharma,"Bombhaat - From ""LIE""",0.836,0.822,1,-4.745,1,0.172,0.235,0,0.123,0.322,97.024,audio_features,3dpG9UvGYjcQX7SPiLYSW7,spotify:track:3dpG9UvGYjcQX7SPiLYSW7,https://api.spotify.com/v1/tracks/3dpG9UvGYjcQX7SPiLYSW7,https://api.spotify.com/v1/audio-analysis/3dpG9UvGYjcQX7SPiLYSW7,243711,4
+Nakash Aziz,Ratthaalu,0.824,0.935,7,-3.633,1,0.0974,0.248,0.0829,0.0969,0.937,138.989,audio_features,49bXxI5G1fTOuVRr56s5fr,spotify:track:49bXxI5G1fTOuVRr56s5fr,https://api.spotify.com/v1/tracks/49bXxI5G1fTOuVRr56s5fr,https://api.spotify.com/v1/audio-analysis/49bXxI5G1fTOuVRr56s5fr,262240,4
+Narendra,Colorful Chilaka,0.799,0.822,4,-5.9,0,0.0951,0.694,9.06e-05,0.049,0.963,96.002,audio_features,6Tve6cDltGAxo5dqWxIF9y,spotify:track:6Tve6cDltGAxo5dqWxIF9y,https://api.spotify.com/v1/tracks/6Tve6cDltGAxo5dqWxIF9y,https://api.spotify.com/v1/audio-analysis/6Tve6cDltGAxo5dqWxIF9y,228760,4
+Geetha Madhuri,Door Number Okati,0.59,0.843,11,-6.614,0,0.296,0.317,0.00167,0.203,0.617,80.991,audio_features,4yNJ3anRH1rMJzcDDTlOOk,spotify:track:4yNJ3anRH1rMJzcDDTlOOk,https://api.spotify.com/v1/tracks/4yNJ3anRH1rMJzcDDTlOOk,https://api.spotify.com/v1/audio-analysis/4yNJ3anRH1rMJzcDDTlOOk,243043,4
+Sagar,Top Lesi Poddi,0.64,0.938,0,-3.423,0,0.185,0.104,0.000116,0.119,0.898,82.874,audio_features,48DXKwPRiMAjr0YfXGfVVo,spotify:track:48DXKwPRiMAjr0YfXGfVVo,https://api.spotify.com/v1/tracks/48DXKwPRiMAjr0YfXGfVVo,https://api.spotify.com/v1/audio-analysis/48DXKwPRiMAjr0YfXGfVVo,257926,4
+Devi Sri Prasad,Who R U,0.707,0.948,7,-3.907,1,0.0723,0.0572,0.0538,0.879,0.78,138.035,audio_features,40Z8bpGJPxjClb4NK8j0LJ,spotify:track:40Z8bpGJPxjClb4NK8j0LJ,https://api.spotify.com/v1/tracks/40Z8bpGJPxjClb4NK8j0LJ,https://api.spotify.com/v1/audio-analysis/40Z8bpGJPxjClb4NK8j0LJ,291519,4
+Devi Sri Prasad,My Love Is Gone,0.739,0.947,9,-3.41,0,0.0549,0.067,0.0932,0.0536,0.739,132.99,audio_features,0DpBhHvxAOZUhaRh33dIUK,spotify:track:0DpBhHvxAOZUhaRh33dIUK,https://api.spotify.com/v1/tracks/0DpBhHvxAOZUhaRh33dIUK,https://api.spotify.com/v1/audio-analysis/0DpBhHvxAOZUhaRh33dIUK,288960,4
+Armaan Malik,Buttabomma - Telugu,0.666,0.644,11,-8.964,0,0.145,0.753,0.000262,0.124,0.89,115.1,audio_features,0dnDTvdUco2UbaBjUtPxNS,spotify:track:0dnDTvdUco2UbaBjUtPxNS,https://api.spotify.com/v1/tracks/0dnDTvdUco2UbaBjUtPxNS,https://api.spotify.com/v1/audio-analysis/0dnDTvdUco2UbaBjUtPxNS,198783,4
+Sid Sriram,Samajavaragamana,0.568,0.663,8,-6.179,1,0.0345,0.91,4.82e-05,0.124,0.808,165.203,audio_features,3j9DrRebdWK1jkpOw9FZUy,spotify:track:3j9DrRebdWK1jkpOw9FZUy,https://api.spotify.com/v1/tracks/3j9DrRebdWK1jkpOw9FZUy,https://api.spotify.com/v1/audio-analysis/3j9DrRebdWK1jkpOw9FZUy,219818,3
+Devi Sri Prasad,Ringa Ringa,0.72,0.949,5,-3.133,0,0.237,0.172,9.55e-05,0.0836,0.956,82.98,audio_features,3APiIzLQYIitzR8F3oG1fV,spotify:track:3APiIzLQYIitzR8F3oG1fV,https://api.spotify.com/v1/tracks/3APiIzLQYIitzR8F3oG1fV,https://api.spotify.com/v1/audio-analysis/3APiIzLQYIitzR8F3oG1fV,333960,4
+Anurag Kulkarni,Ramuloo Ramulaa - Duet,0.663,0.913,5,-4.681,0,0.152,0.415,0.000496,0.158,0.805,187.552,audio_features,4uXJADmybUHUgycBWFHeq6,spotify:track:4uXJADmybUHUgycBWFHeq6,https://api.spotify.com/v1/tracks/4uXJADmybUHUgycBWFHeq6,https://api.spotify.com/v1/audio-analysis/4uXJADmybUHUgycBWFHeq6,245760,3
+Sooranna,Sittharala Sirapadu,0.645,0.446,8,-6.504,1,0.173,0.821,0,0.101,0.801,79.239,audio_features,2yIU71Z6VgPOEaLp0VwFpN,spotify:track:2yIU71Z6VgPOEaLp0VwFpN,https://api.spotify.com/v1/tracks/2yIU71Z6VgPOEaLp0VwFpN,https://api.spotify.com/v1/audio-analysis/2yIU71Z6VgPOEaLp0VwFpN,186657,3
+Ram Miriyala,"Chitti (From ""Jathi Ratnalu"")",0.572,0.679,7,-7.239,1,0.536,0.246,0,0.0835,0.838,208.196,audio_features,6Z40IRipd6pNcUULY6SXng,spotify:track:6Z40IRipd6pNcUULY6SXng,https://api.spotify.com/v1/tracks/6Z40IRipd6pNcUULY6SXng,https://api.spotify.com/v1/audio-analysis/6Z40IRipd6pNcUULY6SXng,184128,4
+Mickey J. Meyer,"Bhalegundi Baalaa (From ""Sreekaram"")",0.743,0.81,7,-10.2,1,0.0578,0.504,0.000175,0.0683,0.634,96.992,audio_features,3S1bUkPhTRTNkSCxhkUgP0,spotify:track:3S1bUkPhTRTNkSCxhkUgP0,https://api.spotify.com/v1/tracks/3S1bUkPhTRTNkSCxhkUgP0,https://api.spotify.com/v1/audio-analysis/3S1bUkPhTRTNkSCxhkUgP0,268296,4
+Kala Bhairava,Tharagathi Gadhi - Telugu,0.583,0.644,7,-6.64,1,0.0378,0.628,0,0.0941,0.547,114.953,audio_features,7El6rXuDiiMNreCDv5QKBD,spotify:track:7El6rXuDiiMNreCDv5QKBD,https://api.spotify.com/v1/tracks/7El6rXuDiiMNreCDv5QKBD,https://api.spotify.com/v1/audio-analysis/7El6rXuDiiMNreCDv5QKBD,213437,4
+G. V. Prakash,"Kaatuka Kanule (From ""Aakaasam Nee Haddhu Ra"")",0.751,0.571,2,-7.829,1,0.236,0.437,6e-05,0.357,0.571,78.996,audio_features,1HobaVS51OdBZqNmqt1TX7,spotify:track:1HobaVS51OdBZqNmqt1TX7,https://api.spotify.com/v1/tracks/1HobaVS51OdBZqNmqt1TX7,https://api.spotify.com/v1/audio-analysis/1HobaVS51OdBZqNmqt1TX7,246000,4
+Pravin Lakkaraju,Emo Emo Emo Nannu Taake Haaye Premo,0.356,0.504,8,-7.367,1,0.035,0.419,0,0.208,0.151,100.011,audio_features,5GkNYFFmyDe0Y8zJYDEf71,spotify:track:5GkNYFFmyDe0Y8zJYDEf71,https://api.spotify.com/v1/tracks/5GkNYFFmyDe0Y8zJYDEf71,https://api.spotify.com/v1/audio-analysis/5GkNYFFmyDe0Y8zJYDEf71,243000,3
+Sudharshan Ashok,Prema Vennela,0.673,0.63,2,-8.748,0,0.0338,0.534,2.05e-05,0.0454,0.744,80.002,audio_features,5mBwJ0Dl4GSoXwbATPtcsj,spotify:track:5mBwJ0Dl4GSoXwbATPtcsj,https://api.spotify.com/v1/tracks/5mBwJ0Dl4GSoXwbATPtcsj,https://api.spotify.com/v1/audio-analysis/5mBwJ0Dl4GSoXwbATPtcsj,217875,4
+"Mano, Ramya Behara",Guvva Gorinkatho,0.856,0.791,1,-5.262,0,0.0658,0.509,0.0139,0.37,0.877,108.758,audio_features,62HclXbyPW0UaqobR9TIWG,spotify:track:62HclXbyPW0UaqobR9TIWG,https://api.spotify.com/v1/tracks/62HclXbyPW0UaqobR9TIWG,https://api.spotify.com/v1/audio-analysis/62HclXbyPW0UaqobR9TIWG,261503,3
+Keerthana Sharma,"Dinchak (From ""Red"")",0.853,0.863,0,-4.456,1,0.22,0.136,1.95e-05,0.0465,0.645,145.0,audio_features,0iT2FnhutL3yJh7DXy1SOG,spotify:track:0iT2FnhutL3yJh7DXy1SOG,https://api.spotify.com/v1/tracks/0iT2FnhutL3yJh7DXy1SOG,https://api.spotify.com/v1/audio-analysis/0iT2FnhutL3yJh7DXy1SOG,319089,4
+Arun Kaundinya,La La Bheemla,0.503,0.901,0,-3.458,1,0.338,0.715,0,0.316,0.631,79.402,audio_features,2B5ovomAAUAZtLGArf4wdw,spotify:track:2B5ovomAAUAZtLGArf4wdw,https://api.spotify.com/v1/tracks/2B5ovomAAUAZtLGArf4wdw,https://api.spotify.com/v1/audio-analysis/2B5ovomAAUAZtLGArf4wdw,147942,4
+Devi Sri Prasad,Boss Party,0.897,0.816,7,-5.357,1,0.239,0.0395,0.000549,0.26,0.637,143.913,audio_features,4sJ9X27MSCue4d0t48MXwe,spotify:track:4sJ9X27MSCue4d0t48MXwe,https://api.spotify.com/v1/tracks/4sJ9X27MSCue4d0t48MXwe,https://api.spotify.com/v1/audio-analysis/4sJ9X27MSCue4d0t48MXwe,200208,4
+Mani Sharma,Bhale Bhale Banjara,0.795,0.851,2,-4.053,0,0.0657,0.113,9.29e-05,0.187,0.918,113.0,audio_features,1GP0KRgqPjkzG9SGuYZKZA,spotify:track:1GP0KRgqPjkzG9SGuYZKZA,https://api.spotify.com/v1/tracks/1GP0KRgqPjkzG9SGuYZKZA,https://api.spotify.com/v1/audio-analysis/1GP0KRgqPjkzG9SGuYZKZA,259098,4
+Anirudh Ravichander,"Psycho Saiyaan (From ""Saaho"")",0.785,0.746,10,-2.672,0,0.149,0.0916,1.98e-05,0.121,0.864,189.988,audio_features,2IbRKQwgiyvXY1yVq8GuA3,spotify:track:2IbRKQwgiyvXY1yVq8GuA3,https://api.spotify.com/v1/tracks/2IbRKQwgiyvXY1yVq8GuA3,https://api.spotify.com/v1/audio-analysis/2IbRKQwgiyvXY1yVq8GuA3,166294,4
+Thaman S,Jai Balayya Mass Anthem,0.609,0.964,11,-5.844,0,0.213,0.582,5.64e-05,0.302,0.831,79.026,audio_features,6Ic8DEtpraRuSk1eY4q2ms,spotify:track:6Ic8DEtpraRuSk1eY4q2ms,https://api.spotify.com/v1/tracks/6Ic8DEtpraRuSk1eY4q2ms,https://api.spotify.com/v1/audio-analysis/6Ic8DEtpraRuSk1eY4q2ms,230791,4
+Thaman S,"Maa Bava Manobhavalu (From ""Veera Simha Reddy"")",0.655,0.974,9,-4.994,1,0.194,0.606,0.149,0.0835,0.486,80.008,audio_features,2aJsalAXemhbfqK114nxAG,spotify:track:2aJsalAXemhbfqK114nxAG,https://api.spotify.com/v1/tracks/2aJsalAXemhbfqK114nxAG,https://api.spotify.com/v1/audio-analysis/2aJsalAXemhbfqK114nxAG,288875,4
+Thaman S,Mass Mogudu,0.788,0.926,1,-6.289,0,0.0777,0.472,0.0585,0.188,0.859,103.022,audio_features,5nEjsGzLxnMxMMTH6yAUXq,spotify:track:5nEjsGzLxnMxMMTH6yAUXq,https://api.spotify.com/v1/tracks/5nEjsGzLxnMxMMTH6yAUXq,https://api.spotify.com/v1/audio-analysis/5nEjsGzLxnMxMMTH6yAUXq,207379,4
+Anirudh Ravichander,Mathuga Mathuga,0.826,0.812,0,-5.693,1,0.393,0.323,0,0.055,0.919,130.033,audio_features,5dOQcfokQavdnjonIy0qyJ,spotify:track:5dOQcfokQavdnjonIy0qyJ,https://api.spotify.com/v1/tracks/5dOQcfokQavdnjonIy0qyJ,https://api.spotify.com/v1/audio-analysis/5dOQcfokQavdnjonIy0qyJ,211385,4
+Anirudh Ravichander,Once Upon a Time,0.646,0.879,1,-3.668,1,0.0823,0.00659,0.0607,0.117,0.429,123.849,audio_features,4wCy7erulqUfFQNVaZBD9b,spotify:track:4wCy7erulqUfFQNVaZBD9b,https://api.spotify.com/v1/tracks/4wCy7erulqUfFQNVaZBD9b,https://api.spotify.com/v1/audio-analysis/4wCy7erulqUfFQNVaZBD9b,143710,4
+Anirudh Ravichander,Porata Simham,0.53,0.595,5,-6.431,0,0.028,0.588,0.000857,0.383,0.541,120.002,audio_features,7L8xOpcR5CBkHar4V82baG,spotify:track:7L8xOpcR5CBkHar4V82baG,https://api.spotify.com/v1/tracks/7L8xOpcR5CBkHar4V82baG,https://api.spotify.com/v1/audio-analysis/7L8xOpcR5CBkHar4V82baG,198000,3
+Surya Js,"Santhanam Theme (From ""Vikram"")",0.552,0.902,9,-6.664,1,0.0982,0.0702,0.219,0.0798,0.314,104.701,audio_features,6IhiG0SZiTJKvbEMcXsij8,spotify:track:6IhiG0SZiTJKvbEMcXsij8,https://api.spotify.com/v1/tracks/6IhiG0SZiTJKvbEMcXsij8,https://api.spotify.com/v1/audio-analysis/6IhiG0SZiTJKvbEMcXsij8,100643,4
+Mr.MSK,Rolex (from Vikram) BGM Recreated,0.575,0.677,1,-10.284,1,0.0513,0.00354,0.697,0.604,0.263,96.991,audio_features,7gMdFuBaHitJ0PEmqYzlB0,spotify:track:7gMdFuBaHitJ0PEmqYzlB0,https://api.spotify.com/v1/tracks/7gMdFuBaHitJ0PEmqYzlB0,https://api.spotify.com/v1/audio-analysis/7gMdFuBaHitJ0PEmqYzlB0,109866,4
+Anirudh Ravichander,Vikram Title Track - Telugu,0.643,0.874,10,-3.604,1,0.0508,0.253,0.00198,0.127,0.118,169.982,audio_features,2mldMnu7kHSm4l5se4Zo7Y,spotify:track:2mldMnu7kHSm4l5se4Zo7Y,https://api.spotify.com/v1/tracks/2mldMnu7kHSm4l5se4Zo7Y,https://api.spotify.com/v1/audio-analysis/2mldMnu7kHSm4l5se4Zo7Y,218824,4
+Rahul Sipligunj,"Naatu Naatu (From ""Rrr"")",0.405,0.988,10,-3.843,0,0.0992,0.355,0.113,0.0815,0.703,160.052,audio_features,4iKGu3xtvm90eBw0EIPWJP,spotify:track:4iKGu3xtvm90eBw0EIPWJP,https://api.spotify.com/v1/tracks/4iKGu3xtvm90eBw0EIPWJP,https://api.spotify.com/v1/audio-analysis/4iKGu3xtvm90eBw0EIPWJP,214400,4
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
